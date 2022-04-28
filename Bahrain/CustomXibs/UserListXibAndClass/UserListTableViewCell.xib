@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="15702" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="15704"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <customFonts key="customFonts">
+        <array key="SourceSansPro-Regular.otf">
+            <string>SourceSansPro-Regular</string>
+        </array>
+    </customFonts>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <tableViewCell clipsSubviews="YES" contentMode="scaleToFill" insetsLayoutMarginsFromSafeArea="NO" selectionStyle="none" hidesAccessoryWhenEditing="NO" indentationLevel="1" indentationWidth="0.0" reuseIdentifier="Cell" rowHeight="108" id="3dU-0e-XmO" customClass="UserListTableViewCell" customModule="Bahrain" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="414" height="108"/>
+            <autoresizingMask key="autoresizingMask"/>
+            <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" insetsLayoutMarginsFromSafeArea="NO" tableViewCell="3dU-0e-XmO" id="m0R-gm-cb2">
+                <rect key="frame" x="0.0" y="0.0" width="414" height="108"/>
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="jjh-cL-m1R" customClass="UILabelFontSize" customModule="Bahrain" customModuleProvider="target">
+                        <rect key="frame" x="10" y="13" width="165.5" height="82"/>
+                        <fontDescription key="fontDescription" name="SourceSansPro-Regular" family="Source Sans Pro" pointSize="17"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                    <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="infoDark" showsTouchWhenHighlighted="YES" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="2N3-Pg-RuT">
+                        <rect key="frame" x="279" y="42" width="25" height="24"/>
+                        <constraints>
+                            <constraint firstAttribute="height" constant="24" id="Ak3-dV-Tgc"/>
+                            <constraint firstAttribute="width" constant="25" id="PbF-8c-veT"/>
+                        </constraints>
+                        <color key="tintColor" red="0.89803921568627454" green="0.47058823529411764" blue="0.59607843137254901" alpha="1" colorSpace="calibratedRGB"/>
+                        <state key="normal">
+                            <color key="titleColor" red="0.89803921568627454" green="0.47058823529411764" blue="0.59607843137254901" alpha="1" colorSpace="calibratedRGB"/>
+                        </state>
+                    </button>
+                    <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" distribution="fillEqually" translatesAutoresizingMaskIntoConstraints="NO" id="U4X-cq-Qyn">
+                        <rect key="frame" x="324" y="34" width="50" height="40"/>
+                        <subviews>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Jzj-Ty-kKv" userLabel="Price Label" customClass="UILabelFontSize" customModule="Bahrain" customModuleProvider="target">
+                                <rect key="frame" x="0.0" y="0.0" width="50" height="20"/>
+                                <fontDescription key="fontDescription" name="SourceSansPro-Regular" family="Source Sans Pro" pointSize="15"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="xvU-CX-qNo" userLabel="Price Label" customClass="UILabelFontSize" customModule="Bahrain" customModuleProvider="target">
+                                <rect key="frame" x="0.0" y="20" width="50" height="20"/>
+                                <fontDescription key="fontDescription" name="SourceSansPro-Regular" family="Source Sans Pro" pointSize="15"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                        </subviews>
+                        <constraints>
+                            <constraint firstAttribute="width" relation="greaterThanOrEqual" constant="50" id="fKh-6Q-Tly"/>
+                            <constraint firstAttribute="height" constant="40" id="kgB-lH-0Zz"/>
+                        </constraints>
+                    </stackView>
+                    <button opaque="NO" clipsSubviews="YES" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="UL6-aS-TOM" customClass="UIButtonCustomClass" customModule="Bahrain" customModuleProvider="target">
+                        <rect key="frame" x="384" y="38" width="20" height="32"/>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <fontDescription key="fontDescription" name="SourceSansPro-Regular" family="Source Sans Pro" pointSize="17"/>
+                        <inset key="contentEdgeInsets" minX="10" minY="5" maxX="10" maxY="5"/>
+                        <state key="normal">
+                            <color key="titleColor" white="0.66666666669999997" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        </state>
+                        <state key="selected">
+                            <color key="titleColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        </state>
+                        <userDefinedRuntimeAttributes>
+                            <userDefinedRuntimeAttribute type="number" keyPath="cornerRadius">
+                                <real key="value" value="4"/>
+                            </userDefinedRuntimeAttribute>
+                            <userDefinedRuntimeAttribute type="number" keyPath="borderWidth">
+                                <real key="value" value="1"/>
+                            </userDefinedRuntimeAttribute>
+                            <userDefinedRuntimeAttribute type="color" keyPath="borderColor">
+                                <color key="value" white="0.66666666669999997" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                            </userDefinedRuntimeAttribute>
+                        </userDefinedRuntimeAttributes>
+                    </button>
+                </subviews>
+                <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                <constraints>
+                    <constraint firstItem="2N3-Pg-RuT" firstAttribute="centerY" secondItem="m0R-gm-cb2" secondAttribute="centerY" id="3De-Cz-Rpo"/>
+                    <constraint firstItem="jjh-cL-m1R" firstAttribute="leading" secondItem="m0R-gm-cb2" secondAttribute="leading" constant="10" id="JjO-uL-W20"/>
+                    <constraint firstItem="UL6-aS-TOM" firstAttribute="centerY" secondItem="2N3-Pg-RuT" secondAttribute="centerY" id="LiD-mi-rN5"/>
+                    <constraint firstItem="UL6-aS-TOM" firstAttribute="leading" secondItem="U4X-cq-Qyn" secondAttribute="trailing" constant="10" id="MtT-oT-wRg"/>
+                    <constraint firstItem="jjh-cL-m1R" firstAttribute="centerY" secondItem="m0R-gm-cb2" secondAttribute="centerY" id="Op5-H9-brX"/>
+                    <constraint firstAttribute="trailing" secondItem="UL6-aS-TOM" secondAttribute="trailing" constant="10" id="QgS-qf-hJq"/>
+                    <constraint firstItem="jjh-cL-m1R" firstAttribute="top" secondItem="m0R-gm-cb2" secondAttribute="top" constant="13" id="Vo9-7e-2W3"/>
+                    <constraint firstItem="U4X-cq-Qyn" firstAttribute="centerY" secondItem="UL6-aS-TOM" secondAttribute="centerY" id="W81-Ye-WcL"/>
+                    <constraint firstItem="U4X-cq-Qyn" firstAttribute="leading" secondItem="2N3-Pg-RuT" secondAttribute="trailing" constant="20" id="fOj-T0-02Q"/>
+                    <constraint firstAttribute="bottom" secondItem="jjh-cL-m1R" secondAttribute="bottom" constant="13" id="lxx-17-s0P"/>
+                    <constraint firstItem="jjh-cL-m1R" firstAttribute="width" secondItem="m0R-gm-cb2" secondAttribute="width" multiplier="0.4" id="vfx-Yu-XsI"/>
+                </constraints>
+            </tableViewCellContentView>
+            <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+            <connections>
+                <outlet property="infoButton" destination="2N3-Pg-RuT" id="G6j-Vp-LWn"/>
+                <outlet property="offerPriceLabel" destination="xvU-CX-qNo" id="UdK-vb-i8h"/>
+                <outlet property="priceLabel" destination="Jzj-Ty-kKv" id="V5r-pI-59Y"/>
+                <outlet property="quantityAddedButton" destination="UL6-aS-TOM" id="73f-V5-PW8"/>
+                <outlet property="serviceNameLabel" destination="jjh-cL-m1R" id="bPN-1V-ysy"/>
+            </connections>
+            <point key="canvasLocation" x="132.80000000000001" y="154.72263868065968"/>
+        </tableViewCell>
+    </objects>
+</document>

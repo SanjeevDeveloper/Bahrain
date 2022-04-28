@@ -1,0 +1,37 @@
+{
+  "name": "mss-ios-gems",
+  "version": "1.6",
+  "summary": "This pod contains various files to speed up the ios app development process.",
+  "swift_versions": "5",
+  "description": "This pod contains various files to speed up the ios app development process. eg. Networking wrapper, alerts and hudder management, custom image picker and various useful extensions along with localized support. This pod currently supports only english and french. We will add other langugaes soon.",
+  "homepage": "http://192.168.0.17/kashishverma/mss-ios-gems.git",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Kashish Verma": "kashishverma@mastersoftwaresolutions.com"
+  },
+  "source": {
+    "git": "http://192.168.0.17/kashishverma/mss-ios-gems.git",
+    "tag": "1.6"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "mss-ios-gems/Classes/**/*",
+  "resource_bundles": {
+    "MssGems": [
+      "mss-ios-gems/Classes/LocalizedBundle.bundle"
+    ]
+  },
+  "dependencies": {
+    "Alamofire": [
+      "~> 4.9.1"
+    ],
+    "IQKeyboardManagerSwift": [
+
+    ]
+  },
+  "swift_version": "5"
+}

@@ -1,0 +1,1145 @@
+
+
+
+//////////////----   LABELS_START   -----///////////////
+
+
+
+// Language Scene Text
+
+languageSceneTitle = "SELECT LANGUAGE";
+languageSceneSubtitle = "Hi! Now you can select your language.";
+languageSceneEnglishButton = "ENGLISH";
+languageSceneArabicButton = "عربى";
+
+
+
+
+// Login Scene Text
+
+loginSceneTitle = "LOGIN";
+loginSceneMobileTextFieldPlaceholder = "Mobile Number";
+loginScenePasswordTextFieldPlaceholder = "Password";
+loginSceneSignInButton = "SIGN IN";
+loginSceneForgotButton = "Forgot Password?";
+loginSceneSignupButton = "SIGN UP FOR AN ACCOUNT";
+loginSceneSkipButton = "SKIP";
+male = "Male";
+female = "Female";
+gender = "Gender";
+ladies = "LADIES";
+gents = "GENTS";
+selectGender = "Select Gender";
+
+
+
+
+// Register Name Scene Text
+
+registerNameSceneTitle = "REGISTER";
+registerNameSceneSubtitle = "Wow! Nice to meet you princess, can we have your name?";
+registerNameSceneNameTextFieldPlaceholder = "Name";
+registerNameSceneNextButton = "NEXT";
+
+
+
+// RegisterMobile Scene Text
+
+registerMobileSceneTitle = "REGISTER";
+registerMobileSceneSubtitlePart1 = "Great ";
+registerMobileSceneSubtitlePart2 = "Great ! Can we have some information about you ?";
+registerMobileSceneNumberTextFieldPlaceholder = "Mobile Number";
+registerMobileSceneEmailTextFieldPlaceholder = "Email";
+registerMobileSceneNameTextFieldPlaceholder  = "Name";
+registerMobileScenePasswordTextFieldPlaceholder = "Password";
+
+
+
+
+
+
+// OTP Verify Scene Text
+oTPVerifySceneTitle = "VERIFICATION";
+oTPVerifySceneSubtitle = "OTP has been sent to you on your mobile number. Please enter it below.";
+oTPVerifySceneResendButton = "Resend OTP";
+timerLabelPart1 = "Please Wait: ";
+timerLabelPart2 = " Sec";
+
+
+
+
+
+
+// Register Location Scene Text
+registerLocationSceneTitle = "REGISTER";
+registerLocationSceneSubtitle = "Awesome! Please tell us about your location.";
+registerLocationSceneAreaTextFieldPlaceholder = "Select Area";
+registerLocationSceneAdressTextFieldPlaceholder = "Enter Address";
+registerLocationSceneFullAdressTextFieldPlaceholder = "Enter Full Address";
+registerLocationSceneBirthdayTextFieldPlaceholder = "Birthday";
+registerLocationSceneRegisterButton = "REGISTER";
+registerLocationSceneAddress = "Please Enter Address";
+registerBirthdayScene = "please Enter Birthday";
+registerEmailTextFieldPlaceholder = "Email";
+selectArea = "Select Area";
+selectBlock = "Select Block";
+road = "Road";
+houseNo = "House Number";
+flatNo = "Flat Number";
+pinLocation = "Pin Location";
+
+
+
+
+
+// Forgot Password Scene Text
+forgotPasswordSceneTitle = "FORGOT PASSWORD";
+forgotPasswordSceneSubtitle = "Forgot your password?";
+forgotPasswordSceneSubtitleDescription = "Enter your mobile number below to reset your password";
+forgotPasswordSceneNumberTextFieldPlaceholder = "Mobile Number";
+
+
+
+// User Pin Location Scene Text
+UserPinLocationSceneTitle = "Pin Location";
+
+
+
+// Forgot Password Otp Scene Text
+forgotPasswordOtpSceneTitle = "VERIFICATION";
+forgotPasswordOtpSceneSubtitle = "OTP has been sent to you on your mobile number. Please enter it below to recover your password.";
+forgotPasswordOtpSceneResendButton = "Resend OTP";
+
+
+
+
+
+
+// Forgot Password Reset Scene Text
+forgotPasswordResetSceneTitle = "FORGOT PASSWORD";
+forgotPasswordResetSceneSubtitle = "Reset your password";
+forgotPasswordResetScenePasswordTextFieldPlaceholder = "New Password";
+forgotPasswordResetSceneConfirmPasswordTextFieldPlaceholder = "Confirm New Password";
+forgotPasswordResetSceneSubmitButton = "SUBMIT";
+
+
+
+
+
+
+// TabBarText
+homeTabTitle = "HOME";
+appointmentTabTitle = "APPOINTMENTS";
+messagesTabTitle = "MESSAGES";
+profileTabTitle = "PROFILE";
+
+
+
+
+
+// User Side Menu Text
+homeMenuTitle = "HOME";
+searchMenuTitle = "SEARCH";
+appointmentsTitle = "APPOINTMENTS";
+WalletTitle = "WALLET";
+favoritesMenuTitle = "FAVORITES";
+messageTitle = "MESSAGES";
+notificationTitle = "NOTIFICATIONS";
+sendFeedbackMenuTitle = "SEND FEEDBACK";
+privacyPolicy = "PRIVACY POLICY";
+settingTitile = "SETTINGS";
+logoutTitle = "LOGOUT";
+switchBusiness = "LIST YOUR BUSINESS";
+loginTitle = "LOGIN";
+
+
+
+
+
+// Business SideMenu Text
+todayMenuTitle = "TODAY";
+calendarMenuTitle = "CALENDAR";
+bookingMenuTitle = "BOOKING";
+settingsMenuTitle = "SETTINGS";
+switchUser = "SWITCH TO CLIENT";
+NotApproved = "Business not approved, Please wait..";
+
+
+
+
+
+// Home Scene Text
+homeSceneTitle = "HOME";
+homeSceneSpecialOffer = "SPECIAL OFFERS";
+homeSceneSalon = "SALONS";
+homeSceneMakeupArtist = "MAKEUP ARTISTS";
+homeSceneSpa = "SPA";
+homeSceneHomeServices = "HOME SERVICES";
+homeSceneBrowseCategories = "Browse Categories";
+
+
+
+
+// Today Scene Text
+todaySceneTitle = "TODAY";
+
+
+// Settings Scene Text
+settingSceneTitle = "SETTINGS";
+
+// headers keys
+headerClients = "CLIENTS";
+headerProfile = "PROFILE";
+headerOffers = "OFFERS";
+headerSchedule = "THERAPISTS";
+headerAccount = "ACCOUNT";
+
+
+
+// rows keys
+rowClientReviews = "CLIENT REVIEWS";
+rowClients = "CLIENTS";
+rowAppointments = "APPOINTMENTS";
+rowViewProfile = "VIEW PROFILE";
+rowPhotos = "PHOTOS";
+rowSpecialOffer = "SPECIAL OFFERS";
+rowServices = "SERVICES";
+rowCategories = "CATEGORIES";
+rowScheduleBreaks = "SCHEDULE BREAKS";
+rowWorkingHours = "WORKING HOURS";
+rowBookingSetting = "BOOKING SETTINGS";
+rowTherapist = "THERAPISTS";
+rowBasicInfo = "BASIC INFORMATION";
+rowLocations = "LOCATIONS";
+rowAccountVisibility = "ACCOUNT VISIBILITY";
+
+
+
+
+// Client Reviews Scene Text
+ClientReviewsSceneTitle = "CLIENT REVIEWS";
+ClientReviewsSceneShowHideLabelText = "No reviews available";
+
+
+
+
+// Client List Scene Text
+clientListSceneTitle = "CLIENTS";
+clientListSceneAddLabel = "ADD CLIENT";
+clientListSceneSearchTextFieldPlaceholder = "Search Client";
+
+
+
+
+// Add Client Scene Text
+addClientSceneTitle = "ADD CLIENT";
+editClientSceneTitle = "EDIT CLIENT";
+addClientSceneNameFieldPlaceholder = "First Name";
+addClientSceneLastNameFieldPlaceholder = "Last Name";
+addClientSceneNumberFieldPlaceholder = "Phone Number";
+addClientSceneContinueButton = "CONTINUE";
+addClientSceneContinueSaveChangesButton = "SAVE CHANGES";
+addClientSceneDeleteAccountButton = "DELETE ACCOUNT";
+addClientSceneDeleteAccountText = "Are you sure you want to delete this client ?";
+addClientSceneClientUpdatedSuccessFullyText = "Client updated successfully.";
+addClientSceneClientAddedSuccessFullyText = "Client added successfully.";
+
+
+
+
+// Working Hour Scene Text
+workingHourSceneTitle = "WORKING HOURS";
+workingHourFromLabel = "From";
+workingHourTillLabel = "Till";
+workingHourApplyText = "Apply";
+workingHourSuccessMessage = "Business working Hours updated";
+workingHourAmText = "AM";
+workingHoursPmText = "PM";
+workingOpeningHoursWrongSelecttime = "Opening time should be less than Close time";
+workingCloseHoursWrongSelecttime = "Closing Time should be greater than start time";
+
+
+
+// Location Scene Text
+locationSceneTitle = "LOCATION";
+locationSceneAreaTextFieldPlaceholder = "Select Area";
+capital = "CAPITAL";
+locationSceneAddress1TextFieldPlaceholder = "Address Line 1-Block";
+locationSceneAddress2TextFieldPlaceholder = "Street";
+locationSceneAvenueTextFieldPlaceholder = "Avenue";
+locationSceneBuildingTextFieldPlaceholder = "Building Floor";
+locationSceneSpecialTextFieldPlaceholder = "Special Location";
+locationSceneContinueButton = "CONTINUE";
+locationSceneEmptyArea = "Please select area.";
+locationSceneEmptyBlockAddress = "Please enter block address.";
+locationSceneEmptyStreetAddress = "Please enter street address.";
+selectBlock = "Select Block";
+crNumber = "CR Number";
+uploadCr = "Upload CR Copy";
+pleaseSelect = "Please select an option";
+crNumberEmptyError = "Please enter CR Number";
+uploadCrError = "Please Upload Cr";
+
+// Basic Information Scene Text
+basicInformationSceneTitle = "BASIC INFORMATION";
+basicInformationAddProfileImgLblTitle = "Add Profile Photo";
+basicInformationAddCoverImgLblTitle = "Add Cover Photo";
+basicInformationSceneSalonNameTextFieldPlaceholder = "Your Salon name";
+basicInformationSceneSalonArabicNameTextFieldPlaceholder = "اسم الصالون الخاص بك";
+basicInformationSceneWebsiteTextFieldPlaceholder = "Website";
+basicInformationSceneInstagramTextFieldPlaceholder = "Instagram Account";
+basicInformationScenePhoneTextFieldPlaceholder = "Phone Number";
+basicInformationSceneAboutTextViewPlaceholder = "About";
+basicInformationSceneArabicAboutTextViewPlaceholder = "حول";
+basicInformationSceneDoneButton = "DONE";
+basicInformationSceneInfoUpdatedSuccessMessage = "Business basic info updated";
+basicInformationSceneEmptySaloonCoverImage = "Please select salon cover image";
+
+
+
+
+// Photos Scene Text
+photosSceneTitle = "ADD PHOTOS";
+photosSceneDoneButton = "DONE";
+photosSceneAddPhotoLabel = "Add Photo";
+emptyImagesArray = "Please add photos.";
+PhotosSceneImageUploadedSuccessfully = "Photos Uploaded Successfully";
+
+
+
+// Account Visibility Scene Text
+accountVisibilitySceneTitle = "ACCOUNT VISIBILITY";
+accountVisibilitySceneSwitchButtonTitle = "Visibility to clients";
+accountVisibilitySceneDeleteButtonTitle = "DELETE ACCOUNT";
+accountVisibilityScenePopupTitle = "Visibility to client";
+accountVisibilityScenePopupSubTitle = "Your salon will no longer be visible to\n clients and your salon hidden.";
+accountVisibilitySceneTurnedOnMessage = "Business Visibility is turned On";
+accountVisibilitySceneTurnedOffMessage = "Business Visibility is turned Off";
+
+
+// Booking Settings Scene Text
+bookingSettingsSceneTitle = "BOOKING SETTINGS";
+bookingSettingsSceneDoneButton = "DONE";
+bookingSettingsSceneTimeTitleLabel = "SET TIME STEP";
+bookingSettingsSceneTimeDescriptionLabel = "If you set it to 30min, then customer can book appointments at 9:30 etc.";
+bookingSettingsSceneMinuteLabel = "Min";
+bookingSettingsSceneNoteTitleLabel = "NOTE";
+bookingSettingsSceneNoteDescriptionLabel = "Add a notice that will be shown to customers before they pay for your services.";
+bookingSettingsSceneNoteTextView = "Write note";
+bookingSettingsSceneLeadTimeTextView = "TIME STEP";
+bookingSettingsSceneSuccessMessage= "Booking Settings Updated.";
+
+
+
+// Add Salon Service Scene Text
+addSalonServiceSceneTitle = "ADD SALON SERVICE";
+addSalonServiceSceneHomeLabel = "HOME";
+addSalonServiceSceneSalonLabel = "SALON";
+addSalonServiceSceneMainCategoryTextFieldPlaceholder = "Select Main Category";
+addSalonServiceSceneSelectServiceCategoryTextFieldPlaceholder = "Select service category";
+addSalonServiceSceneServiceNameTextFieldPlaceholder = "Service Name";
+addSalonServiceSceneArabicNameTextFieldPlaceholder = "اسم الخدمة";
+addSalonServiceSceneHomePriceTextFieldPlaceholder = "Home Price";
+addSalonServiceSceneSalonPriceTextFieldPlaceholder = "Salon Price";
+addSalonSceneDurationTextFieldPlaceholder = "Duration";
+addSalonServiceSceneDurationLabel = "MIN(S)";
+addSalonServiceSceneAboutServiceTextView = "About Your Service";
+addSalonServiceSceneArabicAboutTextView = "معلومات عن الخدمة";
+
+addSalonServiceSceneMoreAddOnLabel = "More Add Ons";
+addSalonServiceSceneAddOnHomeLabel = "HOME";
+addSalonServiceSceneAddOnSalonLabel = "SALON";
+addSalonServiceSceneAddOnNameTextFieldPlaceholder = "Name";
+addSalonServiceSceneAddOnHomePriceTextFieldPlaceholder = "Add On Home Price";
+addSalonServiceSceneAddOnSalonPriceTextFieldPlaceholder = "Add On Salon Price";
+addSalonServiceSceneAddOnDurationTextFieldPlaceholder = "Duration";
+addSalonServiceSceneSaveButton = "Save";
+addSalonServiceSceneCancelButton = "Cancel";
+addSalonServiceSceneContinueButton = "CONTINUE";
+addSalonServiceSceneMoreAddOnColonLabel = "Add-Ons:";
+
+addSalonServiceSceneMainCategoryValidation = "Please select main category";
+addSalonServiceSceneCategoryValidation = "Please select category";
+addSalonServiceSceneServiceNameValidation = "Please enter service name";
+addSalonServiceSceneSalonPriceValidation = "Please specify price at salon";
+addSalonServiceSceneHomePriceValidation = "Please specify price at home";
+addSalonServiceSceneDurationValidation = "Please add duration";
+
+addSalonServiceSceneAddOnNameValidation = "Please enter Addon name";
+addSalonServiceSceneAddOnSalonPriceValidation = "Please specify Addon salon price";
+addSalonServiceSceneAddOnHomePriceValidation = "Please specify Addon home price";
+addSalonServiceSceneContinueSaveChangesButton = "Save Changes";
+addSalonServiceScenemins = "mins";
+
+
+
+// List Service Scene Text
+listServiceSceneTitle = "LIST SERVICE";
+listServiceSceneAddServiceLabel = "ADD SERVICE";
+listServiceSceneContinueButton = "CONTINUE";
+listServiceSceneDeleteServiceLabel = "Are you sure you want to delete this service?";
+listServiceSceneAddLabel = "ADD SERVICES";
+
+
+
+// Therapist List Scene Text
+therapistListSceneTitle = "LIST THERAPISTS";
+therapistListSceneAddLabel = "ADD THERAPIST";
+therapistListSceneListBusinessButtonTitle = "LIST YOUR BUSINESS";
+therapistListSceneThanksAlertTitle = "THANK YOU!";
+therapistListSceneThanksAlertSubtitle = "You are done!\n We will contact you soon.";
+
+
+
+// AddTherapist Scene Text
+addTherapistSceneTitle = "ADD THERAPIST";
+addTherapistSceneNameFieldPlaceholder = "Name";
+addTherapistSceneArabicNameFieldPlaceholder = "الاسم";
+addTherapistSceneJobTitleFieldPlaceholder = "Job Title";
+addTherapistSceneJobTitleArabicFieldPlaceholder = "Job Title";
+addTherapistSceneServicesFieldPlaceholder = "Services";
+addTherapistSceneWorkingHourFieldPlaceholder = "Working Hours";
+addTherapistSceneContinueButton = "CONTINUE";
+addTherapistSceneSelectNameError = "Please enter Therapist name";
+addTherapistSceneSelectJobTitleError = "Please Select Job Title";
+addTherapistSceneSelectServiceError = "Please Select atleast one service.";
+addTherapistSceneSelectHoursError = "Please Select Working Hours.";
+addTherapistSceneHoursSelectedText = "Working Hours Selected";
+addTherapistSceneServiceSelectedText = "Services selected";
+addTherapistSceneDisableButton = "DISABLE THERAPIST";
+addTherapistSceneEnableButton = "ENABLE THERAPIST";
+addTherapistSceneSaveChangesButton = "SAVE CHANGES";
+addTherapistSceneDisableTherapistText = "Are you sure you want to disable this therapist?";
+addTherapistSceneEnableTherapistText = "Are you sure you want to Enable this therapist?";
+addTherapistSceneAddTherapistSuccessMessage = "Therapist added successfully";
+addTherapistSceneUpdateTherapistSuccessMessage = "Therapist Info Updated.";
+addTherapistSceneBreakSelectedText = "Scheduled Break Selected";
+addTherapistOpeningworkingHoursWrongText = "Therapist start time should be greater than or equal to business start time";
+addTherapistCloseworkingHoursWrongText = "Therapist close time should be less than or equal to business close time";
+therapistOpeningHourText = "Start time should be less than Close time";
+therapistCloseHourText = "Close time should be greater than start time";
+
+
+
+
+// Special New Offers Scene Text
+SpecialNewOffersSceneTitle = "SPECIAL NEW OFFERS";
+SpecialNewOffersSceneSetPriceLabel = "Offer Price";
+SpecialNewOffersSceneTotalPriceLabel = "Original Price";
+SpecialNewOffersSceneExpirationDateLabel = "Expiration Date";
+SpecialNewOffersScenePreviewOfferButton = "PREVIEW OFFER";
+SpecialNewOffersSceneDoneButton = "DONE";
+SpecialNewOffersSceneSetPriceValidationText = "Please specify price at salon.";
+SpecialNewOffersSceneExpiryDateValidationText = "Please specify Offer expiry date.";
+SpecialNewOffersSceneOfferCreatedText = "Offer created successfully";
+SpecialNewOffersSceneOfferArrayValidationText = "Please specify business services.";
+SpecialNewOffersSceneOfferPriceValidationText = "Offer price should be less than current price";
+
+
+
+//Special Offers List Scene Text
+SpecialOffersListSceneTitle = "SPECIAL NEW OFFERS";
+SpecialOffersListSceneAddOfferLabel = "ADD OFFERS";
+SpecialOffersListSceneExpiryDateText = "Expiry Date";
+SpecialOffersListSceneDeleteOfferText = "Are you sure you want to delete this offer";
+specialOfferListUserSceneAddOfferLabel = "ADD OFFERS";
+
+
+
+
+
+// About Salon Scene Text
+AboutSalonSceneTitle = "BEAUTY SALON";
+AboutSalonSceneAvailabilityTitleLabel = "AVAILABILITY";
+AboutSalonSceneHomeLabel = "HOME";
+AboutSalonSceneSalonLabel = "SALON";
+AboutSalonSceneAvailableLabel = "AVAILABLE";
+AboutSalonSceneNonAvailableLabel = "NOT AVAILABLE";
+AboutSalonSceneInstaTitleLabel = "@INSTAGRAM";
+AboutSalonSceneDiscriptionTitleLabel = "DESCRIPTION";
+
+
+
+
+// Filter Scene Text
+FilterSceneTitleLabel = "FILTER";
+FilterScenePriceTitleLabel = "PRICE";
+FilterSceneMinPriceLabel = "Min Price";
+FilterSceneMaxPriceLabel = "Max Price";
+FilterSceneCategoriesTitleLabel = "CATEGORIES";
+FilterSceneSelectAreaTitleLabel = "SELECT AREA";
+FilterScenePaymentMethodTitleLabel = "PAYMENT METHOD";
+FilterSceneApplyButtonTitle = "APPLY";
+FilterSceneSelectedTextLabel = "Categories Selected";
+FilterSceneCategoryErrorMessage = "Please select at least one category";
+FilterSceneCashText = "CASH";
+FilterSceneCardText = "CARD";
+FilterSceneAtText = "At";
+FilterSceneSmallatText = "at";
+FilterSceneBookingConfirmed = "Booking Confirmed";
+FilterSceneClearButtonText = "CLEAR";
+FilterScenefavourite = "favourite";
+
+
+// Search Scene Text
+SearchSceneTitle = "SEARCH";
+SearchSceneSearchTextFiledPlaceholderText = "Search salons";
+
+
+// MyAppointment Scene Text
+MyAppointmentSceneTitle = "MY APPOINTMENTS";
+MyAppointmentSceneUpcomingButtonTitle = "UPCOMING";
+MyAppointmentScenePastAppointmentButtonTitle = "PAST APPOINTMENTS";
+MyAppointmentSceneTotalAmountLabelTitle = "Total Amount";
+MyAppointmentSceneCancelledTitle = "Cancelled";
+MyAppointmentSceneCancelAlertTitle = "Are you sure, you want to cancel this appointment";
+MyAppointmentScenefullPaid = "Full Paid";
+MyAppointmentSceneCash = "CASH";
+
+
+// Profile Setting Scene Text
+ProfileSettingSceneTitle = "SETTINGS";
+ProfileSettingSceneNameLabel = "Name";
+ProfileSettingSceneNumberLabel = "Mobile Number";
+ProfileSettingSceneSelectAreaLabel = "Select Area";
+ProfileSettingSceneAddressLabel = "Enter Address";
+ProfileSettingSceneFullAddressLabel = "Enter Full Address";
+ProfileSettingSceneEmailLabel = "Email Address";
+ProfileSettingScenePasswordLabel = "Password";
+ProfileSettingScenePasswordTextField = "Change Password";
+ProfileSettingSceneBirthdayLabel = "Birthday";
+ProfileSettingSceneSwitchLanguageLabel = "SWITCH LANGUAGE";
+ProfileSettingSceneNotificationLabel = "NOTIFICATION";
+ProfileSettingSceneEditButton = "Edit";
+ProfileSettingSceneSaveButton = "Save";
+blockLabel = "Block";
+roadLabel = "Road";
+houseLabel = "House Number";
+flatLabel = "Flat Number";
+pinLocationLabel = "Pin Location";
+
+changeLocation = "Change Location";
+ProfileSettingSceneChangePasswordLabel = "CHANGE PASSWORD";
+ProfileSettingSceneOldPasswordTextField = "Current password";
+ProfileSettingSceneNewPasswordTextField = "New Password";
+ProfileSettingSceneConfirmPasswordTextField = "Confirm New Password";
+ProfileSettingSceneCancelButton = "CANCEL";
+ProfileSettingSceneDoneButton = "DONE";
+ProfileSettingSceneProfileUpdateSuccessMessage = "Your profile has been updated successfully.";
+ProfileSettingSceneChangeLanguageAlertText = "Are you sure, you want to change language to";
+
+namePlaceholder = "Enter your name";
+emailAddressPlaceholder = "Enter your email address";
+fullAddressPlaceholder = "Enter your full address";
+roadPlaceholder = "Enter your road";
+housePlaceholder = "Enter your house number";
+flatplaceholder = "Enter your flat number";
+
+
+
+// Select Area Scene Text
+SelectAreaSceneTitle = "SELECT AREA";
+SelectAreaSceneSelectAreaTextField = "Search by area name";
+SelectAreaSceneFilter = "filter";
+SelectAreaSceneprofileSetting = "profileSetting";
+SelectAreaSceneRegisterLocation = "RegisterLocation";
+SelectAreaSceneBusinessLocation = "BusinessLocation";
+SelectAreaSceneSelectBlockTitle = "SELECT BLOCK";
+
+
+// Favorite List Scene Text
+FavoriteListSceneTitle = "FAVORITES";
+FavoriteListSceneSearchTextField = "Search Salons";
+FavoriteListScenePriceFromLabel = "PRICE FROM";
+FavoriteListSceneCardPaymentLabel = "CARD";
+FavoriteListSceneCashPaymentLabel = "CASH";
+FavoriteListSceneFiteredData = "FILTERED DATA";
+FavoriteListScreneFilterScreen = "FilterScreen";
+FavoriteListSceneLocationTextFieldPlaceholder = "Select your preferred location";
+
+
+
+
+// Booking Summary Scene Text
+bookingSummarySceneSceneTitle = "BOOKING SUMMARY";
+bookingSummarySceneYourServiceText = "YOUR SERVICES";
+bookingSummarySceneDateTitleText = "APPOINTMENT DATE";
+bookingSummarySceneAtText = "At";
+bookingSummaryScenePaymentMethodText = "PAYMENT METHOD";
+bookingSummarySceneTotalPriceText = "Total Price";
+bookingSummarySceneDiscountPriceText = "Discount Amount";
+bookingSummaryScenePayablePriceText = "Payable Amount";
+bookingSummarySceneConfirmBookingText = "CONFIRM BOOKING";
+bookingSummarySceneBookingDateCellLabel = "Booking Date";
+bookingSummarySceneTherapistCellLabel = "Therapist";
+bookingSummarySceneSalonNameCellLabel = "Salon Name";
+bookingSummaryScenepriceCellLabel = "Price";
+bookingSummarySceneTotalAmountText = "Total Amount";
+selectHomeAddressMessage = "Please select home address to proceed.";
+selectAddress = "Select Address";
+summaryDiscountAmount = "Discount Amount";
+summaryPayableAmount = "Payable Amount";
+note = "Note:";
+
+addressListSceneText = "ADDRESS LIST";
+addAddressTitle = "Add Address";
+deletedAddress = "Address deleted successfully.";
+deleteAddress = "DELETE ADDRESS";
+deleteConfirmation = "Are you sure you want to delete this address.";
+useThisAddress = "Use this address";
+enterPromoCode = "Enter promo code";
+apply = "Apply";
+noPromoCode = "Please enter promo code";
+promoCodeAppliedSuccessfully = "Promo code applied successfully!";
+maximumDiscount = "Note- The maximum discount i.e.";
+limitHasExceed = "limit has been exceeded.";
+
+// AddAddressSceneText
+
+addErrorMessage = "Fail to perform this action. Please try again.";
+addAddressSceneTile = "ADD ADDRESS";
+googlePinButtonTitle = "Google Pin";
+addressInfoTitle = "ADDRESS INFO";
+selectAddressTypePlaceholder = "Enter title";
+addressTextViewPlaceholder = "Enter address";
+errorAddressTitle = "Please enter address title";
+errorPhoneMessage = "Please add PhoneNo.";
+errorAddAddressMessage = "Please add Address.";
+errorValidPhoneNumber = "Please add valid PhoneNo.";
+editAddressTitle = "EDIT ADDRESS";
+updateButtonTitle = "Update";
+addressUpdatedMessage = "Address updated successfully";
+addressAddedMesage = "Address added successfully";
+saveButtonTitle = "Save";
+shareLocationTitle = "Share Location";
+addressOtherInfo = "Road";
+addressInfoSceneTitle = "Address Info";
+addressInfoNavigate = "NAVIGATE";
+addressHouseNumber = "House Number";
+addressFlatNumber = "Flat Number";
+addressBlock = "Block";
+
+
+
+// Special Offer List User Scene Text
+specialOfferListUserSceneTitle = "SPECIAL OFFERS";
+specialOfferListUserSceneBookNow = "BOOK NOW";
+specialOfferListUserSceneForAll = "For All";
+specialOfferListUserSceneNoOfferAvailableLabel = "No Offer Available";
+
+
+
+// Opening Hours Scene Text
+OpeningHoursSceneTitle = "OPENING HOURS";
+OpeningHoursSceneToText = "to";
+
+
+
+// SendFeedBackSceneText
+SendFeedBackSceneTitle = "SEND FEEDBACK";
+SendFeedBackSceneFeedBackTextViewPlaceholder = "Send your feedback,lets us know how you like Bahrain Salons App..";
+SendFeedBackSceneSendButtonTitle = "SEND";
+sendfeedbackTextEmptyMsg = "Please enter your feedback message";
+
+
+
+// OrderDetailSceneText
+OrderDetailSceneTitle = "ORDER DETAIL";
+OrderDetailSceneTotalPriceLabel = "PRICE";
+OrderDetailSceneTimeLabel = "Time";
+OrderDetailSceneTherapistLabel = "Therapist";
+OrderDetailScenePaymentHeaderLabel = "PAYMENT DETAIL";
+OrderDetailScenePaymentTypeLabel = "Payment Type";
+OrderDetailScenePaymentStatusLabel = "Payment Status";
+OrderDetailSceneSpecialInstructionLabel = "Special Instructions";
+OrderDetailSceneReportButtonTitle = "Report";
+OrderDetailSceneBottomCancelButtonTitle = "CANCEL";
+OrderDetailSceneBottomBookingButtonTitle = "RE-BOOKING";
+OrderDetailSceneBookingCancelledButtonTitle = "CANCELLED";
+OrderDetailSpecialTypeScene = "Special Instructions";
+OrderDetailSpecialCancelScene = "Cancelled";
+OrderDetailBookingTableCell = "Booking Date";
+OrderDetailPaidAmountLabelText = "Paid Amount";
+OrderDetailRemainingAmountLabelText = "Remaining Amount";
+OrderDetailBookingStatusTitleLabelText = "Service Status";
+OrderDetailPaymentDetailtLabelText = "PAYMENT DETAIL";
+OrderDetailCloseButtonTitle = "CLOSE";
+OrderDetailArrivalStatusLabelText = "Arrival Status";
+OrderDetailTypeTitleLabelText = "Type";
+OrderDetailAmountTitleLabelText = "Amount";
+OrderDetailTransactionTitleLabelText = "Transaction Id";
+OrderDetailTotalAmountText = "Total Amount";
+OrderDateText = "Order Date";
+OrderDetailPromoCodeText = "Coupon code";
+OrderDetailDiscountAvailText = "Discount Availed";
+OrderDetailViewAdressText = "Home service";
+OrderDetailDiscountAmountText = "Discount Amount";
+OrderDetailPayableAmountText = "Payable Amount";
+OrderDetailTotalAmmountText = "Service Amount";
+totalAfterDiscountTitle = "Total After Discount";
+maxDiscountLimitExceedTitle = "Maximum discount limit exceed";
+maxDiscountLimitExceedValue = "Yes";
+isSpecialOfferTitle = "Is Special Offer";
+isSpecialOfferValue = "Yes";
+
+
+
+
+// Add Scheduled Break Scene Text
+AddScheduledBreakSceneTitle = "ADD SCHEDULED BREAK";
+AddScheduledBreakSceneCustomLabelTitle = "Break";
+AddScheduledBreakSceneBreakTypeTitle = "Select break type / Leave";
+AddScheduledBreakSceneFullDayLabel = "Leave";
+AddScheduledBreakSceneTitleLabel = "Title";
+AddScheduledBreakSceneStartDateAndTimeTextField = "Select Start Date Or Time";
+AddScheduledBreakSceneEndDateAndTimeTextField = "Select End Date Or Time";
+AddScheduledBreakSceneRepeatTextField = "Repeat";
+AddScheduledBreakSceneDoneButton = "DONE";
+AddScheduledBreakSceneSelectTitleAlert = "Please specify scheduled break title.";
+AddScheduledBreakSceneSelectStartTimeAlert = "Please specify scheduled start time.";
+AddScheduledBreakSceneSelectEndTimeAlert = "Please specify scheduled end time.";
+AddScheduledBreakSceneEveryDayLabel = "Every Day";
+AddScheduledBreakSceneEndDateGreaterAlert = "End Date should be greater than Start date";
+AddScheduledBreakSceneEndTimeGreaterAlert = "End time should be greater than Start time";
+AddScheduledBreakSceneSelectDateAlert = "Please select Start Date First";
+AddScheduledBreakSceneSelectBreakTypeAlert = "Please select break type";
+
+
+
+// AddSpecial Offer Scene Text
+AddSpecialOfferSceneTitle = "SPECIAL OFFERS";
+AddSpecialOfferSceneOfferNameTextField = "Special Offer Name";
+AddSpecialOfferSceneContinueButton = "CONTINUE";
+AddSpecialOfferSceneOfferNameValidationText = "Please Enter offer name";
+AddSpecialOfferSceneOfferServiceValidationText = "Please select at least one service.";
+AddSpecialOfferSceneAddOfferTitle = "ADD SPECIAL OFFER";
+AddSpecialOfferSceneEditOfferTitle = "EDIT SPECIAL OFFER";
+AddOfferEmptyImage = "Please select offer image";
+
+
+
+
+// Staff Scene Text
+StaffSceneTitle = "STAFF";
+StaffSceneNoStaffLabel = "No Staff Member Available";
+
+
+// Salon Detail Scene Text
+SalonDetailSceneRateUsButton = "RATE";
+SalonDetailSceneEnjoyLabel = "Enjoy your service? Rate us";
+SalonDetailSceneReviewTextViewPlaceholder = "Write your Review";
+SalonDetailSceneCancelButton = "CANCEL";
+SalonDetailSceneSubmitButton = "SUBMIT";
+SalonDetailSceneReviewStaticText = "Reviews";
+SalonDetailSceneEmptyRatingText = "Please provide rating to continue.";
+SalonDetailSceneServiceBookedText = "SERVICE SELECTED";
+SalonDetailSceneBookOrderText = "BOOK NOW";
+
+// Static collection view cell titles
+SalonDetailSceneAbout = "ABOUT";
+SalonDetailSceneFavorites = "FAVORITES";
+SalonDetailSceneHours = "HOURS";
+SalonDetailSceneChat = "CHAT";
+SalonDetailSceneDirection = "DIRECTION";
+SalonDetailSceneStaff = "STAFF";
+SalonDetailSceneAddreviewSuccessResponse = "Your Rating have been submitted successfully";
+SalonDetailSceneNoServiceLabelText = "No Service Available";
+SalonDetailSceneWhatsApp = "WHATSAPP";
+SalonDetailSceneShare = "SHARE";
+
+
+
+
+
+// User List Scene Text
+UserListSceneAddButton = "Add";
+UserListSceneAddedButton = "Added";
+
+
+// List Your Service Scene Text
+ListYourServiceSceneTitle = "LIST YOUR SERVICE";
+ListYourServiceSceneSubTitle = "SELECT WHICH TYPE OF BUSINESS DO YOU WANT TO LIST?";
+ListYourServiceSceneSelectedServiceText = "Services selected";
+ListYourServiceSceneContinueButton = "CONTINUE";
+ListYourServiceSceneSaveChangesButton = "SAVE CHANGES";
+ListYourServiceSceneCategoriesUpdated = "Categories has been updated successfully";
+
+
+// Business Today Scene Text
+BusinessTodayTherapistText = "Therapists";
+BusinessTodayClientNameText = "Client Name";
+BusinessTodayTimeText = "Time";
+BusinessTodayCancelText = "Canceled";
+upcoming = "UPCOMING";
+pastAppointments = "PAST APPOINTMENTS";
+
+// Map Scene Text
+MapSceneTitle = "MAP";
+
+// Business Page ViewController Scene Text
+businessPageViewControllerStepText = "Step";
+
+
+// Business Pin Location Scene Text
+businessPinLocationSceneTitle = "PIN YOUR BUSINESS";
+
+
+
+// Booking Scene Text
+BookingSceneTitle = "BOOKING";
+BookingSceneServiceDetailLabelText = "SERVICE DETAIL";
+BookingSceneInstructionTextViewText = "Do you have any special instructions?";
+BookingSceneProceedButtonTitle = "CHECKOUT";
+BookingSceneMinLabelText = "min(s)";
+BookingSceneTimeSelectionAlert = "Sorry, Booking cannot be created for past time.";
+BookingSceneAllServiceSelectionAlert = "Select time slots to proceed next.";
+BookingSceneServiceText = "SELECT YOUR SUITABLE TIME";
+BookingSceneNoSlotAvailableAlert = "does not have any timeslot available.";
+BookingSceneNoSlot = "No time slots available,  Please select another date.";
+
+
+
+// Business Booking Scene Text
+BusinessBookingSceneTitle = "BOOKING";
+BusinessBookingSceneSelectServiceLocationLabel = "Select Service Location";
+BusinessBookingSceneSelectServiceLabel = "Select Service";
+BusinessBookingSceneServiceDetailLabel = "Service Detail";
+BusinessBookingSceneClientLabel = "Client";
+BusinessBookingSceneBookServiceButton = "BOOK SERVICE";
+BusinessBookingScenePickYourServiceLabel = "Pick Your Service";
+BusinessBookingSceneAtSalonButton = "At Salon";
+BusinessBookingSceneAtHomeButton = "At Home";
+BusinessBookingScenePickDoneButton = "DONE";
+BusinessBookingScenePickCancelButton = "CANCEL";
+BusinessBookingSceneHomeSelectedText = "Home Selected";
+BusinessBookingSceneSalonSelectedText = "Salon Selected";
+BusinessBookingSceneServiceSelectedText = "Services Selected";
+BusinessBookingSceneServiceTypeLabelText = "SERVICE TYPE";
+BusinessBookingSceneSelectServiceErrorAlert = "Please select at least one service.";
+BusinessBookingSceneTimingSlotErrorAlert = "Please select timing slot for service.";
+BusinessBookingSceneSelectServiceFirstAlert = "Please select service first.";
+BusinessBookingSceneSelectClientErrorAlert = "Please select Client";
+BusinessBookingSceneBookingConfirmedMessage = "Booking Confirmed";
+BusinessBookingConfirmAlertMessage = "Are you sure,you want to book yoou service on";
+
+
+
+// Business Calender Scene Text
+BusinessCalenderSceneTitle = "CALENDAR";
+BusinessCalenderSceneServiceNameLabel = "Service Name";
+BusinessCalenderSceneServiceDurationLabel = "Service Duration";
+BusinessCalenderSceneTotalPriceLabel = "Payment";
+BusinessCalenderSceneServiceDurationMinuteText = "mins";
+BusinessCalenderSceneTimeLabel = "Time";
+BusinessCalenderSceneHairCutLabel = "Hair Cut";
+BusinessCalenderDeleteAlert = "Are you sure, you want to cancel this appointment";
+BusinessCalenderConfirmPopupTitle = "Confirm";
+
+// Business Chat Scene Text
+BusinessChatSceneTypingTextLabel = "typing...";
+BusinessChatSceneOnlineTextLabel = "online";
+BusinessChatSceneOfflineTextLabel = "offline";
+BusinessChatSceneTextViewText = "Write a message ...";
+
+
+// Business Chat Message Scene Text
+BusinessChatMessageSceneTitle = "CHAT";
+
+
+
+//Chat Scene Text
+ChatSceneTypingTextLabel = "typing...";
+ChatSceneOnlineTextLabel = "online";
+ChatSceneOfflineTextLabel = "offline";
+ChatSceneTextViewText = "Write a message ...";
+
+//Chat Message Scene Text
+ChatMessageSceneTitle = "MESSAGES";
+
+
+// rate Review Scene Text
+RateReviewSceneTitle = "RATE AND REVIEWS";
+AvgRatingLabel = "Average Rating";
+Quality = "QUALITY";
+Money = "VALUE FOR MONEY";
+Services = "CUSTOMER SERVICES";
+Timing = "TIMING";
+ReviewBtn = "WRITE A REVIEW";
+therapistRating = "Rate Therapist";
+
+
+// Rate Services Scene Text
+RateServicesSceneTitle = "RATE SERVICES";
+ReviewTextView = "Write your Reviews";
+SubmitBtn = "SUBMIT";
+
+// Notify Scene Text
+NotifySceneTitle = "NOTIFICATIONS";
+NotifySceneClearButtonText = "Clear All";
+NotifySceneNoDataLabel = "No Notification Available";
+NotifySceneClearAllAlert = "Are you sure, you want to clear all notifications";
+NotifySceneClearAllSuccessMessage = "Notification cleared successfully.";
+
+// Payment Method Scene Text
+PaymentMethodSceneTitle = "PAYMENT";
+PaymentMethodTypeLabelTitle = "SELECT YOUR PAYMENT TYPE";
+PaymentPartialPayLabelTitle = "Partial Payment";
+PaymentFullPayLabelTitle = "Full Payment";
+PaymentWalletBtnTitle = "WALLET AMOUNT";
+PaymentMethodTotalAmtLabelTitle = "Total Amount";
+PaymentMethodAdvanceAmtTitle = "Advance Payment";
+PaymentMethodSalonAmtTitle = "Payment At Salon";
+PaymentMethodBenefitTitle = "Benefit Pay";
+PaymentMethodCreditTitle = "Debit Or Credit Card";
+PaymentMethodLabelTitle = "SELECT YOUR PAYMENT METHOD";
+PaymentMethodBenefitBtnTitle = "Benefit";
+PaymentMethodMpgsBtnTitle = "MPGS";
+PaymentMethodContinueBtnTitle = "CONTINUE";
+PaymentMethodContinueBtnPayTitle = "PAY";
+PaymentMethodSelectPaymenttypeErrorMsg = "Please Select payment type to continue";
+PaymentMethodSelectPaymentMethodErrorMsg = "Please Select payment method to continue";
+PaymentMethodWalletAmtLblTitle = "Wallet Balance";
+PaymentMethodDeductedLblTitle = "Deducted Balance";
+PaymentMethodRemainingBalanceLblTitle = "Remaining Wallet Balance";
+PaymentMethodRemainPayableTitleLbl = "Remaining payable amount";
+
+
+// Card Detail Scene Text
+CardDetailSceneTitle = "PAYMENT";
+CardDetailMethodNameLbl = "PAYMENT METHOD";
+CardDetailEnterDetailLbl = "Enter Card Details";
+CardDetailExpiryLbl = "Expiry";
+CardDetailCardNumberTxtFldPlaceholder = "Card Number";
+CardDetailMonthTxtFldPlaceholder = "MM";
+CardDetailYearTxtFldPlaceholder = "YYYY";
+CardDetailCvvTxtFldPlaceholder = "CVV";
+CardDetailPaymentBtnTitle = "PAY";
+CardDetailInfoLbl = "This card will be securely saved for a faster payment experience.CVV number will not be saved.";
+CardDetailMoreInfoText = "More Info";
+CardDetailLessInfoText = "Less Info";
+CardDetailFirstInfoText = "We only save your card number & expiry date. We do not save CVV number.";
+CardDetailSecondInfoText = "Be assured, your card details are 100% safe. we use world class encryption for storing card details and our systems are PCI DSS security certified.";
+CardDetailThirdInfoText = "In case you want to delete your saved card, you can do so in the 'Wallet' section in 'My Account'.";
+CardDetailNumberValidationText = "Please enter Card Number";
+CardDetailMonthValidationText = "Please enter expiry Month";
+CardDetailYearValidationText = "Please enter expiry Year";
+CardDetailCvvValidationText = "Please enter CVV";
+
+
+// BusinessAppointmentDetail Scene Text
+BusinessAppointmentDetailSceneTitle = "ORDER DETAIL";
+BusinessAppointmentDetailSceneReportButtonTitle = "Report";
+BusinessAppointmentDetailSceneReportAlertText = "Are you sure, you want to report this client as spam?";
+BusinessAppointmentDetailSceneReportApiSuccessText = "Client reported as spam.";
+BusinessAppointmentPriceLabelText = "PRICE";
+
+
+// List Scheduled Break Scene Text
+ListScheduledBreakSceneTitle = "LIST SCHEDULED BREAK";
+ListScheduledBreakSceneDoneButton = "DONE";
+ListScheduledBreakSceneDeleteButton = "Delete";
+ListScheduledBreakSceneAddScheduledLabel = "ADD SCHEDULED";
+ListScheduledBreakSceneAddScheduledBreakLabel = "ADD SCHEDULED BREAK";
+ListScheduledBreakSceneFullDay = "Full Day";
+
+
+// Cancel Appointment Scene Text
+CancelAppointmentSceneTitle = "CANCELLATION REASON";
+CancelAppointmentSceneTextFieldPlaceholder = "Enter Your Reason";
+CancelAppointmentSceneSubmitBtnTitle = "SUBMIT";
+CancelAppointmentSceneSelectReasonAlert = "Please select reason for booking cancellation";
+CancelAppointmentScenePopupAlertTitle = "CANCEL APPOINTMENT";
+CancelAppointmentScenePopupCancelBtnTitle = "CANCEL";
+CancelAppointmentScenePopupConfirmBtnTitle = "CONFIRM";
+
+
+
+//Wallet Scene Text
+WalletSceneTitle = "WALLET";
+WalletSceneCurrentBalanceLblTitle = "Current Balance";
+WalletSceneBottomInfoLabelTitle = "Note- Wallet is only use for refunds";
+WalletSceneNoDataLblTitle = "No Wallet history available";
+
+
+
+
+
+
+//////////////----   LABELS_END   -----///////////////
+
+
+////////////----   MESSAGES_START   -----/////////////
+
+
+// Salon Detail Scene Text
+SalonDetailSceneEmptyRatingText = "please provide rating to continue.";
+
+// Working hour scene text
+updateSuccessMessage = "Business working hours updated";
+workingHoursError = "Please set salon working hours.";
+
+
+// Basic Information
+basicInformationSceneEmptySaloonName = "Please enter your saloon name";
+basicInformationSceneEmptySaloonImage = "Please add saloon profile image";
+basicInformationSceneEmptyCoverSaloonImage = "Please add saloon cover image";
+
+
+// Photos Scene Text
+emptyImagesArray = "Please select salon gallery images.";
+
+
+// Send FeedBack Scene Text
+SendFeedBackSceneEmptyTextMsg = "Please provide your Feedback.";
+
+// OTP Verify Scene Text
+emptyOTP = "Please enter a OTP.";
+validOTP = "Please enter a valid OTP.";
+OTPNotSent = "OTP Not Sent";
+
+
+// Add client
+addClientSceneEmptyNameValidation = "Please enter client name.";
+addClientSceneEmptyCountryCodeValidation = "Please enter country code.";
+addClientSceneEmptyPhoneNumberValidation = "Please enter client phone number";
+
+
+
+// Validations Text
+emptyName = "Please enter your name.";
+emptyPhoneNumber = "Please enter your mobile number.";
+phoneNumberMinLength = "Mobile number should be greater than 7";
+invalidPhoneNumber = "Phone number is invalid.";
+emptyPassword = "Please enter your current password.";
+emptyNewPassword = "Please enter your new password.";
+emptyConfirmPassword = "Please enter the confirm password.";
+confirmPasswordMatch = "The new and confirm password does not match.";
+passwordLength = "Password must be at-least 8 characters long.";
+emptyCountryCode = "Please select country code.";
+emptyEmail = "Please enter your email-id.";
+invalidEmail = "Please enter a valid email-id.";
+emptyArea = "Please select your area.";
+emptyBirthdate = "Please select your birth date.";
+emptyImage = "Please select Profile image";
+enterArea = "Please select area";
+enterBlock = "Please select block";
+
+// Twilio Wrapper Text
+userMessage = "Your Verification code for Bahrian is ";
+
+
+// User Side Menu Text
+
+logoutAlert = "Are you sure, you want to Logout?";
+
+
+
+// General Text
+bookingConfirmedSuccessfully = "Booking confirmed successfully";
+keyboardDoneButton = "Done";
+bhd = "BHD";
+ok = "OK";
+nextButton = "NEXT";
+doneButton = "DONE";
+cancelButton = "CANCEL";
+appName = "Bahrian";
+no = "NO";
+yes = "YES";
+cancel = "Cancel";
+editRow = "Edit";
+deleteRow = "Delete";
+imageUploadedSuccess = "Image uploaded successfully";
+pleaseLogin = "Please login to continue";
+gpsPermission = "Sorry, This App may not work properly without permissions. So Please go to Settings>>Bahrian>>Location & select 'While Using the App or Always' options.";
+cameraPermission = "Please enable camera permission for this App in your device settings";
+noSalonAvailableMessage = "No salons available";
+noAppointmentsAvailableMessage = "No appointments available";
+permissionHeading = "Sorry, Permissions Denied.";
+comingSoon = "Coming Soon..";
+Continue = "CONTINUE";
+ConfirmBooking = "Confirm Booking";
+sessionexpired = "Session has been expired";
+paymentSsnTimedOut = "Payment session time out";
+from = "From";
+to = "To";
+image = "Image";
+document = "Document";
+accept = "ACCEPT";
+reject = "REJECT";
+bookingId = "Booking ID";
+validTill = "Valid Till ";
+amount = "Amount";
+expiaryMonth = "Expiry MM";
+expiaryYear = "Expiry YYYY";
+cashOutWarning = "Are you sure, you want to cash out";
+salonAvailService = "Are you arriving to the salon to avail the service";
+availService = "Are you ready to avail the service";
+cancelled = "cancelled";
+confirm = "Confirm";
+confirmed = "confirmed";
+selectAnotherSlot = "Please select another slot";
+useMyCurrentLocation = "Use my current location";
+by = "by";
+serviceCompleted = "Service Completed";
+
+basicInfoAdded = "Information added successfully";
+locationFetched = "Location fetched successfully";
+businessPinned = "Business pinned successfully";
+servicesAdded = "Services added successfully";
+
+reminderHeader = "Covid-19 Declaration";
+
+reminderNotification0 = "In the last 14 days:";
+reminderNotification1 = "1. Do you suffer or have any of these symptoms?";
+reminderNotification2 = "Coughing, fatigue and fatigue, shortness of breath, loss of sense of smell, loss of taste, sore throat.";
+reminderNotification3 = "2. Did you have any contact with these symptoms or was diagnosed with Covid 19?";
+reminderNotification4 = "3. Do you live with anyone under a home quarantine?";
+
+serviceUpdated = "Service updated successfully";
+serviceAdded = "Service added successfully";
+englishDigitsError = "Please enter english numbers only";
+businessAlreadyApproved = "Your business is already approved.Please continue with Bahrain Business app.";
+
+mon = "Mo";
+tue = "Tu";
+wed = "We";
+thu = "Th";
+fri = "Fr";
+sat = "Sa";
+sun = "Su";
+
+armon = "Monday";
+artue = "Tuesday";
+arwed = "Wednesday";
+arthu = "Thursday";
+arfri = "Friday";
+arsat = "Saturday";
+arsun = "Sunday";
+
+monthView = "Month View";
+weekView = "Week View";
+
+specialOffers = "Special Offers";
+homeServices = "Home Services";
+homePackages = "Home Packages";
+salonServices = "Salon Services";
+salonPackages = "Salon Packages";
+off = "OFF";
+
+registeredOn = "Registered on";
+
+paymentMsg = "Are you sure you want to book your service on ";
+generalTextNoInternetError = "Internet not available";
+businessAlreadyExist = "Your business already exists.Do you want to continue with existing business?";
+tooManyGooglePlacesRequests = "Too many requests";
+googleServerError = "Google server error";
+searchPlace = "Search for a place or address";
+addItem = "ADD ITEM";
+outOf = "out of";
+checkout = "CHECKOUT";
+maxSelection = "Maximum selection has exceeded";
+specialInstructions = "SPECIAL INSTRUCTIONS";
+
+
+//////////////----   MESSAGES_END   -----///////////////
+

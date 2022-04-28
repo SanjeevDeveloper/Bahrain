@@ -1,0 +1,15 @@
+
+// Custom ImagePicker Text
+openCamera = "Ouvrir la caméra";
+openGallery = "Ouvrir la galerie";
+
+// General Text
+no = "Non";
+yes = "Oui";
+cancel = "Annuler";
+cameraPermission = "Veuillez activer l'autorisation de la caméra pour cette application dans les paramètres de votre appareil";
+permissionHeading = "Désolé, autorisations refusées.";
+ok = "D'accord";
+done = "Terminé";
+retry = "Recommencez";
+noInternetFound = "Connexion Internet non trouvée";

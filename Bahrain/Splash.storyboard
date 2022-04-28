@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="17701" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="Ao2-sc-ob1">
+    <device id="retina6_1" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="17703"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <customFonts key="customFonts">
+        <array key="SourceSansPro-Regular.otf">
+            <string>SourceSansPro-Regular</string>
+        </array>
+    </customFonts>
+    <scenes>
+        <!--Animated Splash View Controller-->
+        <scene sceneID="eQb-AP-7Ch">
+            <objects>
+                <viewController id="Ao2-sc-ob1" customClass="AnimatedSplashViewController" customModule="Bahrain" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="UPq-Iz-rUO">
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="SplashScrren.png" translatesAutoresizingMaskIntoConstraints="NO" id="Wwo-U0-vWZ">
+                                <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+                            </imageView>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="uFu-6s-9Hk">
+                                <rect key="frame" x="0.0" y="832" width="414" height="0.0"/>
+                                <fontDescription key="fontDescription" name="SourceSansPro-Regular" family="Source Sans Pro" pointSize="20"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                        </subviews>
+                        <viewLayoutGuide key="safeArea" id="oP2-pf-6w5"/>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <constraints>
+                            <constraint firstItem="Wwo-U0-vWZ" firstAttribute="bottom" secondItem="UPq-Iz-rUO" secondAttribute="bottom" id="EsS-SL-pMO"/>
+                            <constraint firstItem="oP2-pf-6w5" firstAttribute="bottom" secondItem="uFu-6s-9Hk" secondAttribute="bottom" constant="30" id="Kgb-OX-l8n"/>
+                            <constraint firstItem="Wwo-U0-vWZ" firstAttribute="trailing" secondItem="oP2-pf-6w5" secondAttribute="trailing" id="Ll6-K7-jfr"/>
+                            <constraint firstItem="uFu-6s-9Hk" firstAttribute="leading" secondItem="oP2-pf-6w5" secondAttribute="leading" id="PWG-Pg-eqb"/>
+                            <constraint firstItem="oP2-pf-6w5" firstAttribute="trailing" secondItem="uFu-6s-9Hk" secondAttribute="trailing" id="SFO-vN-The"/>
+                            <constraint firstItem="Wwo-U0-vWZ" firstAttribute="top" secondItem="UPq-Iz-rUO" secondAttribute="top" id="Y7g-br-Z5K"/>
+                            <constraint firstItem="Wwo-U0-vWZ" firstAttribute="leading" secondItem="oP2-pf-6w5" secondAttribute="leading" id="qUP-1d-KfP"/>
+                        </constraints>
+                    </view>
+                    <connections>
+                        <outlet property="gifImageView" destination="Wwo-U0-vWZ" id="Nct-lL-0lp"/>
+                        <outlet property="labelVersion" destination="uFu-6s-9Hk" id="kfx-Hf-VHt"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="SR9-fT-oui" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="-1464" y="114"/>
+        </scene>
+    </scenes>
+    <resources>
+        <image name="SplashScrren.png" width="1242" height="2208"/>
+    </resources>
+</document>

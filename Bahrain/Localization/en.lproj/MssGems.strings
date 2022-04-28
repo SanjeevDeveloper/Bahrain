@@ -1,0 +1,14 @@
+/* 
+  MssGems.strings
+  iBeauty
+
+  Created by Kashish Verma on 3/27/18.
+  Copyright © 2018 Kashish Verma. All rights reserved.
+*/
+
+
+// Custom Image Picker Wrapper
+
+MopenCamera = "MopenCamera";
+MopenGallery = "MopenGalleryText";
+

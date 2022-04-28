@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "4B32D2B1-4F1A-421E-977C-BC841BAE6274"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F161903D-A4D8-4810-994A-8599402F8C8B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Bahrain/Scenes/User Module/SearchVC/SearchInteractor.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "211"
+            endingLineNumber = "211"
+            landmarkName = "hitSearchSalonFilterApi(offset:filterText:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "F161903D-A4D8-4810-994A-8599402F8C8B - d4b8bb0315002f3e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Bahrain.SearchInteractor.hitSearchSalonFilterApi(offset: Swift.Int, filterText: Swift.String) -&gt; ()"
+                  moduleName = "Bahrain"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mss/Desktop/Projects_With_Global_Repo/Bahrain_User/bahrain-user-ios/code/Bahrain/Scenes/User%20Module/SearchVC/SearchInteractor.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "211"
+                  endingLineNumber = "211"
+                  offsetFromSymbolStart = "12645">
+               </Location>
+               <Location
+                  uuid = "F161903D-A4D8-4810-994A-8599402F8C8B - b6cc84377c36b67d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #4 (Bahrain.ApiResponse) -&gt; () in Bahrain.SearchInteractor.hitSearchSalonFilterApi(offset: Swift.Int, filterText: Swift.String) -&gt; ()"
+                  moduleName = "Bahrain"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mss/Desktop/Projects_With_Global_Repo/Bahrain_User/bahrain-user-ios/code/Bahrain/Scenes/User%20Module/SearchVC/SearchInteractor.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "213"
+                  endingLineNumber = "213"
+                  offsetFromSymbolStart = "111">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

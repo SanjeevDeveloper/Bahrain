@@ -1,0 +1,15 @@
+
+// Custom ImagePicker Text
+openCamera = "Open Camera";
+openGallery = "Open Gallery";
+
+// General Text
+no = "No";
+yes = "Yes";
+cancel = "Cancel";
+cameraPermission = "Please enable camera permission for this App in your device settings";
+permissionHeading = "Sorry, Permissions Denied.";
+ok = "Ok";
+done = "Done";
+retry = "Retry";
+noInternetFound = "Internet connection not found";

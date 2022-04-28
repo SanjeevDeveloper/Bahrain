@@ -1,0 +1,6 @@
+framework module mss_ios_gems {
+  umbrella header "mss-ios-gems-umbrella.h"
+
+  export *
+  module * { export * }
+}

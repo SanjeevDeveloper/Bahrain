@@ -1,0 +1,207 @@
+PODS:
+  - Alamofire (4.9.1)
+  - Cosmos (13.0.0)
+  - Crashlytics (3.11.1):
+    - Fabric (~> 1.8.1)
+  - Fabric (1.8.1)
+  - Firebase/Auth (5.11.0):
+    - Firebase/CoreOnly
+    - FirebaseAuth (= 5.0.4)
+  - Firebase/Core (5.11.0):
+    - Firebase/CoreOnly
+    - FirebaseAnalytics (= 5.3.0)
+  - Firebase/CoreOnly (5.11.0):
+    - FirebaseCore (= 5.1.6)
+  - Firebase/Messaging (5.11.0):
+    - Firebase/CoreOnly
+    - FirebaseMessaging (= 3.2.1)
+  - FirebaseAnalytics (5.3.0):
+    - FirebaseCore (~> 5.1)
+    - FirebaseInstanceID (~> 3.3)
+    - GoogleAppMeasurement (~> 5.3)
+    - GoogleUtilities/AppDelegateSwizzler (~> 5.2)
+    - GoogleUtilities/MethodSwizzler (~> 5.2)
+    - GoogleUtilities/Network (~> 5.2)
+    - "GoogleUtilities/NSData+zlib (~> 5.2)"
+    - nanopb (~> 0.3)
+  - FirebaseAnalyticsInterop (1.1.0)
+  - FirebaseAuth (5.0.4):
+    - FirebaseAuthInterop (~> 1.0)
+    - FirebaseCore (~> 5.0)
+    - GoogleUtilities/Environment (~> 5.2)
+    - GTMSessionFetcher/Core (~> 1.1)
+  - FirebaseAuthInterop (1.0.0)
+  - FirebaseCore (5.1.6):
+    - GoogleUtilities/Logger (~> 5.2)
+  - FirebaseInstanceID (3.3.0):
+    - FirebaseCore (~> 5.1)
+    - GoogleUtilities/Environment (~> 5.3)
+    - GoogleUtilities/UserDefaults (~> 5.3)
+  - FirebaseMessaging (3.2.1):
+    - FirebaseAnalyticsInterop (~> 1.1)
+    - FirebaseCore (~> 5.1)
+    - FirebaseInstanceID (~> 3.0)
+    - GoogleUtilities/Environment (~> 5.2)
+    - GoogleUtilities/Reachability (~> 5.2)
+    - Protobuf (~> 3.1)
+  - FSCalendar (2.8.1)
+  - GoogleAppMeasurement (5.3.0):
+    - GoogleUtilities/AppDelegateSwizzler (~> 5.2)
+    - GoogleUtilities/MethodSwizzler (~> 5.2)
+    - GoogleUtilities/Network (~> 5.2)
+    - "GoogleUtilities/NSData+zlib (~> 5.2)"
+    - nanopb (~> 0.3)
+  - GoogleMaps (3.0.3):
+    - GoogleMaps/Maps (= 3.0.3)
+  - GoogleMaps/Base (3.0.3)
+  - GoogleMaps/Maps (3.0.3):
+    - GoogleMaps/Base
+  - GooglePlaces (3.0.3):
+    - GoogleMaps/Base (= 3.0.3)
+  - GoogleUtilities/AppDelegateSwizzler (5.3.4):
+    - GoogleUtilities/Environment
+    - GoogleUtilities/Logger
+    - GoogleUtilities/Network
+  - GoogleUtilities/Environment (5.3.4)
+  - GoogleUtilities/Logger (5.3.4):
+    - GoogleUtilities/Environment
+  - GoogleUtilities/MethodSwizzler (5.3.4):
+    - GoogleUtilities/Logger
+  - GoogleUtilities/Network (5.3.4):
+    - GoogleUtilities/Logger
+    - "GoogleUtilities/NSData+zlib"
+    - GoogleUtilities/Reachability
+  - "GoogleUtilities/NSData+zlib (5.3.4)"
+  - GoogleUtilities/Reachability (5.3.4):
+    - GoogleUtilities/Logger
+  - GoogleUtilities/UserDefaults (5.3.4):
+    - GoogleUtilities/Logger
+  - GTMSessionFetcher/Core (1.2.0)
+  - IQKeyboardManagerSwift (6.5.5)
+  - JTAppleCalendar (7.1.7)
+  - MKMagneticProgress (1.4)
+  - mss-ios-gems (1.6):
+    - Alamofire (~> 4.9.1)
+    - IQKeyboardManagerSwift
+  - nanopb (0.3.901):
+    - nanopb/decode (= 0.3.901)
+    - nanopb/encode (= 0.3.901)
+  - nanopb/decode (0.3.901)
+  - nanopb/encode (0.3.901)
+  - Protobuf (3.6.1)
+  - ScrollingPageControl (0.1.1)
+  - SDWebImage (4.4.2):
+    - SDWebImage/Core (= 4.4.2)
+  - SDWebImage/Core (4.4.2)
+  - Socket.IO-Client-Swift (13.1.3):
+    - Starscream (~> 3.0.2)
+  - Starscream (3.0.6)
+  - SwiftMessages (5.0.1):
+    - SwiftMessages/App (= 5.0.1)
+  - SwiftMessages/App (5.0.1)
+  - SwiftyGif (4.2.0)
+  - SwipeCellKit (2.5.4)
+  - TTGTagCollectionView (1.9.0)
+
+DEPENDENCIES:
+  - Cosmos (~> 13.0)
+  - Crashlytics
+  - Fabric
+  - Firebase/Auth
+  - Firebase/Core
+  - Firebase/Messaging
+  - FSCalendar
+  - GoogleMaps
+  - GooglePlaces (~> 3.0.0)
+  - JTAppleCalendar (~> 7.1.5)
+  - MKMagneticProgress (~> 1.4)
+  - mss-ios-gems (from `http://192.168.0.17/kashishverma/mss-ios-gems.git`, tag `1.13`)
+  - ScrollingPageControl
+  - SDWebImage (~> 4.0)
+  - Socket.IO-Client-Swift (~> 13.1.0)
+  - SwiftMessages (~> 5.0.1)
+  - SwiftyGif
+  - SwipeCellKit (~> 2.5.4)
+  - TTGTagCollectionView
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - Cosmos
+    - Crashlytics
+    - Fabric
+    - Firebase
+    - FirebaseAnalytics
+    - FirebaseAnalyticsInterop
+    - FirebaseAuth
+    - FirebaseAuthInterop
+    - FirebaseCore
+    - FirebaseInstanceID
+    - FirebaseMessaging
+    - FSCalendar
+    - GoogleAppMeasurement
+    - GoogleMaps
+    - GooglePlaces
+    - GoogleUtilities
+    - GTMSessionFetcher
+    - IQKeyboardManagerSwift
+    - JTAppleCalendar
+    - MKMagneticProgress
+    - nanopb
+    - Protobuf
+    - ScrollingPageControl
+    - SDWebImage
+    - Socket.IO-Client-Swift
+    - Starscream
+    - SwiftMessages
+    - SwiftyGif
+    - SwipeCellKit
+    - TTGTagCollectionView
+
+EXTERNAL SOURCES:
+  mss-ios-gems:
+    :git: http://192.168.0.17/kashishverma/mss-ios-gems.git
+    :tag: '1.13'
+
+CHECKOUT OPTIONS:
+  mss-ios-gems:
+    :git: http://192.168.0.17/kashishverma/mss-ios-gems.git
+    :tag: '1.13'
+
+SPEC CHECKSUMS:
+  Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
+  Cosmos: af3973becc045af335b64498c9812034876b7661
+  Crashlytics: 3df6ef91701e6dc98005417f6d4f37ccf0cd3344
+  Fabric: 330290bc4f5e4fffce5081dfcd1babfc0ddf1a33
+  Firebase: b48f9e653da971ecce5b8c749684bc8bb2d26bd3
+  FirebaseAnalytics: 63202d2665de4e6adcbdce189135255d8b5962ba
+  FirebaseAnalyticsInterop: e5f21be9af6548372e2f0815834ff909bff395a2
+  FirebaseAuth: 504b198ceb3472dca5c65bb95544ea44cfc9439e
+  FirebaseAuthInterop: 0ffa57668be100582bb7643d4fcb7615496c41fc
+  FirebaseCore: d16552f06821489ce1affe2e5e3e5593402ddfe3
+  FirebaseInstanceID: e2fa4cb35ef5558c200f7f0ad8a53e212215f93e
+  FirebaseMessaging: 0f14a264b0d7f867e8eff5d3556bc5d0d4e57888
+  FSCalendar: 5245140456fcbcac5824c203b98bd8068bdfee1a
+  GoogleAppMeasurement: 5029d78f2b438bd30ffb44e6c558b57c21622727
+  GoogleMaps: fd5c9fa58871781b9fb94d4936f19c69fe60ce32
+  GooglePlaces: f09e76993c9c3ee4af8f4f7f535bb94d6aa3b649
+  GoogleUtilities: abb092d2c12e817fa3e0e7b274987dd72fb86ec3
+  GTMSessionFetcher: 0c4baf0a73acd0041bf9f71ea018deedab5ea84e
+  IQKeyboardManagerSwift: 0fb93310284665245591f50f7a5e38de615960b7
+  JTAppleCalendar: 96da4d8388fa6dc82d6a60d41ef36a015e167e2f
+  MKMagneticProgress: 006b8c763d62986661bcde03794a3dcf56cd084a
+  mss-ios-gems: 1fdcbed24733c72c3ffd10adab980cab68dd09ff
+  nanopb: 2901f78ea1b7b4015c860c2fdd1ea2fee1a18d48
+  Protobuf: 1eb9700044745f00181c136ef21b8ff3ad5a0fd5
+  ScrollingPageControl: 7642e1f842000eeccf8bc47a5718e4b678e10f10
+  SDWebImage: 624d6e296c69b244bcede364c72ae0430ac14681
+  Socket.IO-Client-Swift: d30d6fd08a38ad2a182b090936a043bf512ab2de
+  Starscream: ef3ece99d765eeccb67de105bfa143f929026cf5
+  SwiftMessages: 32ce3cfc8388b41aae56ff4853cc752a20101147
+  SwiftyGif: a149bf84df23370592f3f075561ae02c8632a314
+  SwipeCellKit: 4eada3884ab1bbae5e8d2fb9030c242aa23d7f42
+  TTGTagCollectionView: 958f20b946dee92a8ba20dc37d10a06737641ae9
+
+PODFILE CHECKSUM: e6e1f71c766edf72eee054991fdcf5353c75e853
+
+COCOAPODS: 1.10.1

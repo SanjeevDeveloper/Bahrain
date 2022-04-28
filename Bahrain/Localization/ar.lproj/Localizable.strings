@@ -1,0 +1,1211 @@
+
+
+
+//////////////----   LABELS_START   -----///////////////
+
+
+
+// Language Scene Text
+
+languageSceneTitle = "تغيير اللغة";
+languageSceneSubtitle = "مرحبا .. بإمكانك اختيار اللغة";
+languageSceneEnglishButton = "ENGLISH";
+languageSceneArabicButton = "عربى";
+
+
+
+
+// Login Scene Text
+
+loginSceneTitle = "بيانات الدخول";
+loginSceneMobileTextFieldPlaceholder = "رقم الموبايل";
+loginScenePasswordTextFieldPlaceholder = "كلمة السر";
+loginSceneSignInButton = "تسجيل الدخول";
+loginSceneForgotButton = "هل نسيت كلمة السر؟";
+loginSceneSignupButton = "تسجيل حساب جديد";
+loginSceneSkipButton = "تخطي";
+male = "ذكر";
+female = "انثى";
+gender = "الجنس";
+ladies = "سيدات";
+gents = "رجال";
+selectGender = "حدد نوع الجنس";
+
+
+
+// Register Name Scene Text
+
+registerNameSceneTitle = "تسجيل";
+registerNameSceneSubtitle = "رائع! تشرفنا بك ، هل يمكننا الحصول على اسمك؟";
+registerNameSceneNameTextFieldPlaceholder = "الاسم";
+registerNameSceneNextButton = "تابع";
+
+
+
+// RegisterMobile Scene Text
+
+registerMobileSceneTitle = "تسجيل";
+registerMobileSceneSubtitlePart1 = "رائع";
+registerMobileSceneSubtitlePart2 = "رائع ! هل يمكننا الحصول على بعض المعلومات عنك؟";
+registerMobileSceneNumberTextFieldPlaceholder = "رقم الموبايل";
+registerMobileSceneEmailTextFieldPlaceholder = "الايميل";
+registerMobileSceneNameTextFieldPlaceholder  = "الاسم";
+registerMobileScenePasswordTextFieldPlaceholder = "كلمة السر";
+
+
+
+
+
+
+// OTP Verify Scene Text
+oTPVerifySceneTitle = "التحقق";
+oTPVerifySceneSubtitle = "تم إرسال OTP إليك على رقم هاتفك المحمول. الرجاء إدخاله أدناه";
+oTPVerifySceneResendButton = "إعادة إرسال OTP";
+timerLabelPart1 = "الرجاء الانتظار";
+timerLabelPart2 = " ثانية";
+
+
+
+
+
+                 
+// Register Location Scene Text
+registerLocationSceneTitle = "تسجيل";
+registerLocationSceneSubtitle = "رائع! الرجاء تحديد موقعك.";
+registerLocationSceneAreaTextFieldPlaceholder = "اختر المنطقة";
+registerLocationSceneAdressTextFieldPlaceholder = "العنوان";
+registerLocationSceneFullAdressTextFieldPlaceholder = "العنوان الكامل";
+registerLocationSceneBirthdayTextFieldPlaceholder = "تاريخ الميلاد";
+registerLocationSceneRegisterButton = "تسجيل";
+registerLocationSceneAddress = "يرجى إدخال العنوان";
+registerBirthdayScene = "من فضلك أدخل تاريخ ميلادك";
+registerEmailTextFieldPlaceholder = "الايميل";
+selectArea = "اختر المنطقة";
+selectBlock = "المجمع";
+road = "الطريق";
+houseNo = "رقم المنزلr";
+flatNo = "رقم الشقة";
+pinLocation = "تحديد الموقع";
+
+
+
+
+// Forgot Password Scene Text
+forgotPasswordSceneTitle = "استعادة كلمة السر";
+forgotPasswordSceneSubtitle = "هل نسيت كلمة السر؟";
+forgotPasswordSceneSubtitleDescription = "أدخل رقم الموبايل أدناه لإعادة تعيين كلمة السر الخاصة بك";
+forgotPasswordSceneNumberTextFieldPlaceholder = "الموبايل";
+
+
+
+
+
+// User Pin Location Scene Text
+UserPinLocationSceneTitle = "دبوس الموقع";
+// Forgot Password Otp Scene Text
+forgotPasswordOtpSceneTitle = "التحقق";
+forgotPasswordOtpSceneSubtitle = "تم إرسال OTP إليك على رقم هاتفك المحمول. يرجى إدخاله أدناه لاستعادة كلمة المرور الخاصة بك.";
+forgotPasswordOtpSceneResendButton = "إعادة إرسال OTP";
+
+
+
+
+
+
+// Forgot Password Reset Scene Text
+forgotPasswordResetSceneTitle = "إستعادة كلمة السر";
+forgotPasswordResetSceneSubtitle = "اعد ضبط كلمه السر";
+forgotPasswordResetScenePasswordTextFieldPlaceholder = "كلمة السر الجديدة";
+forgotPasswordResetSceneConfirmPasswordTextFieldPlaceholder = "تأكيد كلمة السر الجديدة";
+forgotPasswordResetSceneSubmitButton = "ارسال";
+
+
+
+
+
+
+
+// TabBarText
+homeTabTitle = "الرئيسية";
+appointmentTabTitle = "المواعيد";
+messagesTabTitle = "المسجات";
+profileTabTitle = "الملف الشخصي";
+
+
+
+
+
+// User Side Menu Text
+homeMenuTitle = "الرئيسية";
+searchMenuTitle = "البحث";
+appointmentsTitle = "المواعيد";
+WalletTitle = "المحفظة";
+favoritesMenuTitle = "المفضلة";
+messageTitle       = "المسجات";
+notificationTitle = "الإشعارات";
+sendFeedbackMenuTitle = "ارسل رأيك";
+privacyPolicy = "سياسة خاصة";
+settingTitile = "إعدادات التطبيق";
+logoutTitle = "الخروج";
+switchBusiness = "أدرج صالونك";
+loginTitle = "الدخول";
+logoutMessage = "هل أنت متأكد أنك تريد الخروج ؟";
+
+
+
+
+
+// Business SideMenu Text
+todayMenuTitle = "اليوم";
+calendarMenuTitle = "التقويم";
+bookingMenuTitle = "المواعيد";
+bookingSpecialOffer = "حجز عرض /  باكج";
+settingsMenuTitle = "الإعدادات";
+NotificationMenuTitle = "الإشعارات";
+switchUser = "التبديل إلى العميل";
+NotApproved = "النشاط التجاري غير معتمد ، الرجاء الانتظار ..";
+
+
+
+
+// Home Scene Text
+homeSceneTitle = "الرئيسية";
+homeSceneSpecialOffer = "عروض خاصة";
+homeSceneSalon = "الصالون";
+homeSceneMakeupArtist = "خبراء المكياج";
+homeSceneSpa = "سبا";
+homeSceneHomeServices = "آرتست";
+homeSceneBrowseCategories = "تصفح الفئات";
+
+
+
+
+
+// Today Scene Text
+todaySceneTitle = "المواعيد";
+// Notify Scene Text
+NotifySceneTitle = "الإشعارات";
+NotifySceneClearButtonText = "امسح الكل";
+NotifySceneNoDataLabel = "الإشعارات";
+NotifySceneClearAllAlert = "هل أنت متأكد أنك تريد مسح جميع الإشعارات؟";
+NotifySceneClearAllSuccessMessage = "تم مسح الإشعارات بنجاح";
+
+
+// Settings Scene Text
+settingSceneTitle = "الإعدادات";
+
+// headers keys
+headerClients = "الزبائن";
+headerProfile = "الملف الشخصي";
+headerOffers = "العروض";
+headerSchedule = "الخبراء";
+headerPayment = "المدفوعات";
+headerAccount = "الحساب";
+
+
+                                    
+// rows keys
+rowClientReviews = "تعليقات الزبائن";
+rowClients = "الزبائن";
+rowAppointments = "المواعيد";
+rowViewProfile = "عرض الملف الشخصي";
+rowPhotos = "الصور";
+rowSpecialOffer = "عروض خاصة";
+rowServices = "خدمات";
+rowCategories = "الفئات";
+rowScheduleBreaks = "فترة استراحة الموظف";
+rowWorkingHours = "ساعات العمل";
+rowBookingSetting = "إعدادات الحجز";
+rowTherapist = "الخبراء";
+rowBasicInfo = "معلومات اساسية";
+rowLocations = "المواقع";
+rowAccountVisibility = "إظهار الصالون";
+
+
+
+// Client Reviews Scene Text
+ClientReviewsSceneTitle = "تعليقات الزبائن";
+ClientReviewsSceneShowHideLabelText = "لايوجد تعليقات";
+
+
+// Client List Scene Text
+clientListSceneTitle = "الزبائن";
+clientListSceneAddLabel = "إضافة زبون";
+clientListSceneSearchTextFieldPlaceholder = "البحث عن زبون";
+
+
+
+
+
+// Add Client Scene Text
+addClientSceneTitle = "إضافة زبون";
+editClientSceneTitle = "تعديل معلومات الزبون";
+addClientSceneNameFieldPlaceholder = "الاسم الاول";
+addClientSceneLastNameFieldPlaceholder = "الاسم الاخير";
+addClientSceneNumberFieldPlaceholder = "رقم الموبايل";
+addClientSceneContinueButton = "استمر";
+addClientSceneContinueSaveChangesButton = "حفظ التغييرات";
+addClientSceneDeleteAccountButton = "حذف الحساب";
+addClientSceneDeleteAccountText = "هل أنت متأكد من أنك تريد حذف هذا الزبون؟";
+addClientSceneClientUpdatedSuccessFullyText = "تم تحديث بيانات الزبون بنجاح.";
+addClientSceneClientAddedSuccessFullyText = "تم إضافة الزبون بنجاح.";
+
+
+
+
+// Working Hour Scene Text
+workingHourSceneTitle = "ساعات العمل";
+workingHourFromLabel = "من";
+workingHourTillLabel = "حتى";
+workingHourApplyText = "ضبط";
+workingHourSuccessMessage = "تم تحديث ساعات العمل";
+workingHourAmText = "صباحا";
+workingHoursPmText = "مساء";
+workingOpeningHoursWrongSelecttime = "يجب أن يكون وقت بدء العمل أقل من وقت الإغلاق";
+workingCloseHoursWrongSelecttime = "يجب أن يكون وقت الإغلاق أكبر من وقت البدء";
+
+
+
+// Location Scene Text
+locationSceneTitle = "الموقع";
+capital = "عاصمة";
+locationSceneAreaTextFieldPlaceholder = "اختر المنطقة";
+locationSceneAddress1TextFieldPlaceholder = "العنوان";
+locationSceneAddress2TextFieldPlaceholder = "الشارع";
+locationSceneAvenueTextFieldPlaceholder = "الشارع";
+locationSceneBuildingTextFieldPlaceholder = "طابق المبنى";
+locationSceneSpecialTextFieldPlaceholder = "تحديد الموقع";
+locationSceneContinueButton = "متابعة";
+locationSceneEmptyArea = "يرجى اختيار المنطقة";
+locationSceneEmptyBlockAddress = "يرجى إدخال رقم المجمع";
+locationSceneEmptyStreetAddress = "يرجى إدخال عنوان الشارع";
+selectBlock =  "اختر المجمع";
+crNumber = "رقم السجل التجاري";
+uploadCr = "تحميل السجل التجاري";
+pleaseSelect = "يرجى تحديد خيار";
+crNumberEmptyError = "يرجى إدخال رقم السجل التجاري";
+uploadCrError = "الرجاء تحميل السجل التجاري";
+
+
+// Basic Information Scene Text
+basicInformationSceneTitle = "معلومات اساسية";
+basicInformationAddProfileImgLblTitle = "اضافة صورة العرض";
+basicInformationAddCoverImgLblTitle = "اضافة صورة الغلاف";
+basicInformationSceneSalonNameTextFieldPlaceholder = "اسم الصالون الخاص بك";
+basicInformationSceneSalonArabicNameTextFieldPlaceholder = "اسم الصالون الخاص بك";
+basicInformationSceneWebsiteTextFieldPlaceholder = "الموقع الكتروني";
+basicInformationSceneInstagramTextFieldPlaceholder = "حساب انستغرام";
+basicInformationScenePhoneTextFieldPlaceholder = "رقم الموبايل";
+basicInformationSceneAboutTextViewPlaceholder = "معلومات الصالون";
+basicInformationSceneArabicAboutTextViewPlaceholder = "عن";
+basicInformationSceneDoneButton = "تم";
+basicInformationSceneInfoUpdatedSuccessMessage = "تم تحديث المعلومات الأساسية للصالون";
+basicInformationSceneEmptySaloonCoverImage = "الرجاء تحديد صورة غلاف الصالون";
+
+
+
+
+// Photos Scene Text
+photosSceneTitle = "إضافة الصور";
+photosSceneDoneButton = "تم";
+photosSceneAddPhotoLabel = "إضافة صورة";
+emptyImagesArray = "الرجاء إضافة الصور.";
+PhotosSceneImageUploadedSuccessfully = "تم تحميل الصورة  بنجاح";
+
+
+
+// Account Visibility Scene Text
+accountVisibilitySceneTitle = "إظهار الصالون";
+accountVisibilitySceneSwitchButtonTitle = "إظهار الصالون للزبائن";
+accountVisibilitySceneDeleteButtonTitle = "حذف الحساب";
+accountVisibilityScenePopupTitle = "إظهار الصالون للزبائن";
+accountVisibilityScenePopupSubTitle = "لن يتم إظهار الصالون الخاص بك للزبائن سيتم مخفيا";
+accountVisibilitySceneTurnedOnMessage = "تم تشغيل الرؤية";
+accountVisibilitySceneTurnedOffMessage = "تم تعطيل الرؤية";
+
+
+// Booking Settings Scene Text
+bookingSettingsSceneTitle = "إعدادات الحجز";
+bookingSettingsSceneDoneButton = "تم";
+bookingSettingsSceneTimeTitleLabel = "تحديد الفترة الزمنية";
+bookingSettingsSceneTimeDescriptionLabel = "إذا قمت بتعيينها إلى 30 دقيقة ، فيمكن للعميل حجز المواعيد في الساعة 9:30 وما إلى ذلك";
+bookingSettingsSceneMinuteLabel = "دقيقة";
+bookingSettingsSceneNoteTitleLabel = "ملاحظة";
+bookingSettingsSceneNoteDescriptionLabel = "أضف إشعارًا سيظهر للعملاء قبل دفع مستحقات خدماتك.";
+bookingSettingsSceneNoteTextView = "اكتب ملا حظة";
+bookingSettingsSceneLeadTimeTextView = "الفترة الزمنية";
+bookingSettingsSceneSuccessMessage= "تم تحديث إعدادات الحجز.";
+
+
+
+// Add Salon Service Scene Text
+addSalonServiceSceneTitle = "إضافة خدمات الصالون";
+addSalonServiceSceneHomeLabel = "الرئيسية";
+addSalonServiceSceneSalonLabel = "الصالون";
+addSalonServiceSceneMainCategoryTextFieldPlaceholder = "اختر الفئة الرئيسية";
+addSalonServiceSceneSelectServiceCategoryTextFieldPlaceholder = "اختر فئة الخدمة";
+addSalonServiceSceneServiceNameTextFieldPlaceholder = "اسم الخدمة";
+addSalonServiceSceneArabicNameTextFieldPlaceholder = "اسم الخدمة";
+addSalonServiceSceneHomePriceTextFieldPlaceholder = "سعر الخدمة في المنزل";
+addSalonServiceSceneSalonPriceTextFieldPlaceholder = "سعر الخدمة في الصالون";
+addSalonSceneDurationTextFieldPlaceholder = "المدة الزمنية";
+addSalonServiceSceneDurationLabel = "دقيقة / دقائق";
+addSalonServiceSceneAboutServiceTextView = "معلومات عن الخدمة";
+addSalonServiceSceneArabicAboutTextView = "معلومات عن الخدمة";
+
+addSalonServiceSceneMoreAddOnLabel = "المزيد من الإضافات";
+addSalonServiceSceneAddOnHomeLabel = "الرئيسية";
+addSalonServiceSceneAddOnSalonLabel = "الصالون";
+addSalonServiceSceneAddOnNameTextFieldPlaceholder = "الاسم";
+addSalonServiceSceneAddOnHomePriceTextFieldPlaceholder = "إضافة على السعر المنزلي";
+addSalonServiceSceneAddOnSalonPriceTextFieldPlaceholder = "إضافة على السعر في الصالون";
+addSalonServiceSceneAddOnDurationTextFieldPlaceholder = "المدة الزمنية";
+addSalonServiceSceneSaveButton = "حفظ";
+addSalonServiceSceneCancelButton = "إلغاء";
+addSalonServiceSceneContinueButton = "استمر";
+addSalonServiceSceneMoreAddOnColonLabel = "إضافات";
+
+addSalonServiceSceneMainCategoryValidation = "يرجى اختيار الفئة الرئيسية";
+addSalonServiceSceneCategoryValidation = "يرجى تحديد الفئة";
+addSalonServiceSceneServiceNameValidation = "يرجى إدخال اسم الخدمة";
+addSalonServiceSceneSalonPriceValidation = "الرجاء تحديد السعر في الصالون";
+addSalonServiceSceneHomePriceValidation = "الرجاء تحديد السعر في المنزل";
+addSalonServiceSceneDurationValidation = "الرجاء إضافة المدة";
+
+addSalonServiceSceneAddOnNameValidation = "الرجاء إدخال اسم الاضافة";
+addSalonServiceSceneAddOnSalonPriceValidation = "الرجاء تحديد سعر الاضافة في الصالون";
+addSalonServiceSceneAddOnHomePriceValidation = "الرجاء تحديد سعر الاضافة للمنازل";
+addSalonServiceSceneContinueSaveChangesButton = "احفظ التغييرات";
+addSalonServiceScenemins = "دقيقة";
+
+
+
+// List Service Scene Text
+listServiceSceneTitle = "قائمة الخدمات";
+listServiceSceneAddServiceLabel = "إضافة خدمة";
+listServiceSceneContinueButton = "استمر";
+listServiceSceneDeleteServiceLabel = "هل أنت متأكد من أنك تريد حذف هذه الخدمة؟";
+listServiceSceneAddLabel = "إضافة خدمات";
+
+
+
+// Therapist List Scene Text
+therapistListSceneTitle = "قائمة الخبراء";
+therapistListSceneAddLabel = "إضافة خبير";
+therapistListSceneListBusinessButtonTitle = "أدرج صالونك";
+therapistListSceneThanksAlertTitle = "شكرا جزيلا!";
+therapistListSceneThanksAlertSubtitle = "لقد انتهيت! سوف نتصل بك قريبًا.";
+
+
+
+// AddTherapist Scene Text
+addTherapistSceneTitle = "إضافة خبير";
+addTherapistSceneNameFieldPlaceholder = "الاسم";
+addTherapistSceneArabicNameFieldPlaceholder = "الاسم";
+addTherapistSceneJobTitleFieldPlaceholder = "المسمى الوظيفي";
+addTherapistSceneJobTitleArabicFieldPlaceholder = "المسمى الوظيفي";
+addTherapistSceneServicesFieldPlaceholder = "خدمات";
+addTherapistSceneWorkingHourFieldPlaceholder = "ساعات العمل";
+addTherapistSceneContinueButton = "استمر";
+addTherapistSceneSelectNameError = "الرجاء إدخال اسم الخبير";
+addTherapistSceneSelectJobTitleError = "الرجاء اختيار المسمى الوظيفي";
+addTherapistSceneSelectServiceError = "الرجاء تحديد خدمة واحدة على الأقل.";
+addTherapistSceneSelectHoursError = "الرجاء اختيار ساعات العمل.";
+addTherapistSceneHoursSelectedText = "تم تحديد ساعات العمل";
+addTherapistSceneServiceSelectedText = "تم تحديد الخدمات";
+addTherapistSceneDisableButton = "إيقاف الخبير";
+addTherapistSceneEnableButton = "تفعيل الخبير";
+addTherapistSceneSaveChangesButton = "احفظ التغييرات";
+addTherapistSceneDisableTherapistText = "هل أنت متأكد من أنك تريد إيقاف هذه الخبير؟";
+addTherapistSceneEnableTherapistText = "هل أنت متأكد من أنك تريد تفعيل هذه الخبير؟";
+addTherapistSceneAddTherapistSuccessMessage = "تم إضافة الخبير بنجاح";
+addTherapistSceneUpdateTherapistSuccessMessage = "تم تحديث بيانات الخبير بنجاح";
+addTherapistSceneBreakSelectedText = "تحديد موعد الاستراحة";
+addTherapistOpeningworkingHoursWrongText = "يجب أن يكون وقت بدء الخبير أكبر من أو يساوي وقت بدء العمل";
+addTherapistCloseworkingHoursWrongText = "يجب أن يكون وقت إغلاق الخبير اقل  او يساوي وقت الصالون";
+therapistOpeningHourText = "يجب أن يكون وقت البدء أقل من وقت الإغلاق";
+therapistCloseHourText = "يجب أن يكون وقت الإغلاق أكثر من وقت البدء";
+
+
+
+
+// Special New Offers Scene Text
+SpecialNewOffersSceneTitle = "عروض خاصة جديدة";
+SpecialNewOffersSceneSetPriceLabel = "ضع السعر";
+SpecialNewOffersSceneTotalPriceLabel = "السعر الكلي";
+SpecialNewOffersSceneExpirationDateLabel = "تاريخ إنتهاء العرض";
+SpecialNewOffersScenePreviewOfferButton = "مراجعة العرض";
+SpecialNewOffersSceneDoneButton = "تم";
+SpecialNewOffersSceneSetPriceValidationText = "الرجاء تحديد السعر في الصالون.";
+SpecialNewOffersSceneExpiryDateValidationText = "الرجاء تحديد تاريخ انتهاء العرض.";
+SpecialNewOffersSceneOfferCreatedText = "تم إنشاء العرض بنجاح";
+SpecialNewOffersSceneOfferArrayValidationText = "الرجاء تحديد خدمات الصالون.";
+SpecialNewOffersSceneOfferPriceValidationText = "يجب أن يكون سعر العرض أقل من السعر الحالي";
+
+
+
+//Special Offers List Scene Text
+SpecialOffersListSceneTitle = "عروض خاصة جديدة";
+SpecialOffersListSceneAddOfferLabel = "إضافة عرض";
+SpecialOffersListSceneExpiryDateText = "تاريخ الانتهاء";
+SpecialOffersListSceneDeleteOfferText = "هل أنت متأكد من أنك تريد حذف هذا العرض";
+specialOfferListUserSceneAddOfferLabel = "إضافة عرض";
+
+
+
+
+
+// About Salon Scene Text
+AboutSalonSceneTitle = "الصالون";
+AboutSalonSceneAvailabilityTitleLabel = "نوع الخدمات المتوفرة";
+AboutSalonSceneHomeLabel = "الخدمات المنزلية";
+AboutSalonSceneSalonLabel = "خدمات الصالون";
+AboutSalonSceneAvailableLabel = "متوفر";
+AboutSalonSceneNonAvailableLabel = "غير متوفر";
+AboutSalonSceneInstaTitleLabel = "انستجرام";
+AboutSalonSceneDiscriptionTitleLabel = "تفاصيل الصالون";
+
+
+
+
+// Filter Scene Text
+FilterSceneTitleLabel = "فلتر";
+FilterScenePriceTitleLabel = "السعر";
+FilterSceneMinPriceLabel = "أقل سعر";
+FilterSceneMaxPriceLabel = "أكثر سعر";
+FilterSceneCategoriesTitleLabel = "الفئات";
+FilterSceneSelectAreaTitleLabel = "اختر المنطقة";
+FilterScenePaymentMethodTitleLabel = "طريقة الدفع";
+FilterSceneApplyButtonTitle = "ضبط";
+FilterSceneSelectedTextLabel = "تم اختيار الفئة";
+FilterSceneCategoryErrorMessage = "يرجى تحديد فئة واحدة على الأقل";
+FilterSceneCashText = "نقدا";
+FilterSceneCardText = "بطاقة";
+FilterSceneAtText = "في";
+FilterSceneSmallatText = "في";
+FilterSceneBookingConfirmed = "تأكيد الحجز";
+FilterSceneClearButtonText = "ازالة";
+FilterScenefavourite = "المفضل";
+
+
+// Search Scene Text
+SearchSceneTitle = "البحث";
+SearchSceneSearchTextFiledPlaceholderText = "إبحث عن الصالون";
+
+
+// MyAppointment Scene Text
+MyAppointmentSceneTitle = "سجل المواعيد";
+MyAppointmentSceneUpcomingButtonTitle = "المواعيد القادمة";
+MyAppointmentScenePastAppointmentButtonTitle = "المواعيد السابقة";
+MyAppointmentSceneTotalAmountLabelTitle = "المبلغ الإجمالي";
+MyAppointmentSceneCancelledTitle = "تم إلغاء موعدك";
+MyAppointmentSceneCancelAlertTitle = "هل أنت متأكد من أنك تريد إلغاء هذا الموعد";
+MyAppointmentScenefullPaid = "مدفوع بالكامل";
+MyAppointmentSceneCash = "نقدا";
+
+
+// Profile Setting Scene Text
+ProfileSettingSceneTitle = "الإعدادات";
+ProfileSettingSceneNameLabel = "الاسم";
+ProfileSettingSceneNumberLabel = "رقم الموبايل";
+ProfileSettingSceneSelectAreaLabel = "اختر المنطقة";
+ProfileSettingSceneAddressLabel = "أدخل العنوان";
+ProfileSettingSceneFullAddressLabel = "أدخل العنوان الكامل";
+ProfileSettingSceneEmailLabel = "البريد الكتروني";
+ProfileSettingScenePasswordLabel = "كلمة السر";
+ProfileSettingScenePasswordTextField = "تغيير كلمة السر";
+ProfileSettingSceneBirthdayLabel = "تاريخ الميلاد";
+ProfileSettingSceneSwitchLanguageLabel = "تغيير اللغة";
+ProfileSettingSceneNotificationLabel = "الإشعارات";
+ProfileSettingSceneEditButton = "تعديل";
+ProfileSettingSceneSaveButton = "حفظ";
+blockLabel = "المجمع";
+roadLabel = "الشارع";
+houseLabel = "رقم المنزل";
+flatLabel = "رقم الشقة";
+pinLocationLabel = "تحديد الموقع";
+
+changeLocation = "تغيير الموقع";
+ProfileSettingSceneChangePasswordLabel = "تغيير كلمة السر";
+ProfileSettingSceneOldPasswordTextField = "كلمة السر الحالية";
+ProfileSettingSceneNewPasswordTextField = "كلمة السر الجديدة";
+ProfileSettingSceneConfirmPasswordTextField = "تأكيد كلمة السر الجديدة";
+ProfileSettingSceneCancelButton = "إلغاء";
+ProfileSettingSceneDoneButton = "تم";
+ProfileSettingSceneProfileUpdateSuccessMessage = "تم تحديث ملفك الشخصي بنجاح";
+ProfileSettingSceneChangeLanguageAlertText = "هل أنت متأكد من أنك تريد تغيير اللغة إلى";
+
+namePlaceholder = "الاسم";
+emailAddressPlaceholder = "البريد الالكتروني";
+fullAddressPlaceholder = "العنوان بالكامل";
+roadPlaceholder = "رقم الطريق";
+housePlaceholder = "رقم المبنى";
+flatplaceholder = "رقم الشقة";
+
+
+
+// Select Area Scene Text
+SelectAreaSceneTitle = "اختر المنطقة";
+SelectAreaSceneSelectAreaTextField = "البحث";
+SelectAreaSceneFilter = "فلتر";
+SelectAreaSceneprofileSetting = "خيارات الملف الشخصي";
+SelectAreaSceneRegisterLocation = "تحديد الموقع";
+SelectAreaSceneBusinessLocation = "تحديد موقع الصالون";
+SelectAreaSceneSelectBlockTitle = "اختر رقم المجمع";
+
+
+// Favorite List Scene Text
+FavoriteListSceneTitle = "المفضلة";
+FavoriteListSceneSearchTextField = "البحث عن الصالون";
+FavoriteListScenePriceFromLabel = "السعر يبدأ من";
+FavoriteListSceneCardPaymentLabel = "بطاقة";
+FavoriteListSceneCashPaymentLabel = "نقدا";
+FavoriteListSceneFiteredData = "بيانات ملفترة";
+FavoriteListScreneFilterScreen = "شاشة التصفية";
+FavoriteListSceneLocationTextFieldPlaceholder = "اختر موقعك المفضل";
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// Booking Summary Scene Text
+bookingSummarySceneSceneTitle = "قائمة الحجوزات";
+bookingSummarySceneYourServiceText = "خدماتك";
+bookingSummarySceneDateTitleText = "تاريخ الموعد";
+bookingSummarySceneAtText = "في";
+bookingSummaryScenePaymentMethodText = "طريقة الدفع";
+bookingSummarySceneTotalPriceText = "السعر الكلي";
+bookingSummarySceneDiscountPriceText = "السعر التخفيض";
+bookingSummarySceneTotalAmountText = "السعر الكلي";
+bookingSummaryScenePayablePriceText = "المبلغ المستحق";
+bookingSummarySceneConfirmBookingText = "تأكيد الحجز";
+bookingSummarySceneBookingDateCellLabel = "تاريخ الحجز";
+bookingSummarySceneTherapistCellLabel = "الخبير";
+bookingSummarySceneSalonNameCellLabel = "اسم الصالون";
+bookingSummaryScenepriceCellLabel = "السعر";
+bookingSummarySceneTotalAmountText = "المجموع الكلي";
+selectHomeAddressMessage = "الرجاء تحديد عنوان المنزل";
+selectAddress = "حدد العنوان";
+summaryDiscountAmount = "مبلغ التخفيض";
+summaryPayableAmount = "المبلغ المستحق";
+note = "ملاحظة";
+
+addressListSceneText = "قائمة العناوين";
+addAddressTitle = "اضافة عنوان";
+deletedAddress = "تم حذف العنوان بنجاح";
+deleteAddress = "حذف العنوان";
+deleteConfirmation = "هل أنت متأكد أنك تريد حذف هذا العنوان؟";
+useThisAddress = "استخدم هذا العنوان";
+enterPromoCode = "ادخل كود الخصم";
+apply = "تطبيق";
+noPromoCode = "يرجى إدخال الرمز الترويجي";
+promoCodeAppliedSuccessfully = "تم تطبيق كود الخصم بنجاح";
+maximumDiscount = "تم تجاوز الحد الأقصى للخصم";
+limitHasExceed = "تم تجاوز الحد الاقصى";
+
+// AddAddressSceneText
+
+addErrorMessage = "فشل في تنفيذ هذا الإجراء ، يرجى المحاولة مرة أخرى";
+addAddressSceneTile = "اضافة عنوان";
+googlePinButtonTitle = "دبوس جوجل";
+addressInfoTitle = "معلومات العنوان";
+selectAddressTypePlaceholder = "ادخل العنوان";
+addressTextViewPlaceholder = "ادخل عنوان المنزل";
+errorAddressTitle = "يرجى إدخال اسم العنوان";
+errorPhoneMessage = "الرجاء اضافة رقم الهاتف";
+errorAddAddressMessage = "الرجاء اضافة العنوان";
+errorValidPhoneNumber = "الرجاء إضافة رقم هاتف صحيح";
+editAddressTitle = "تعديل العنوان";
+updateButtonTitle = "تحديث";
+addressUpdatedMessage = "تم تحديث العنوان بنجاح";
+addressAddedMesage = "تمت إضافة العنوان بنجاح";
+saveButtonTitle = "حفظ";
+shareLocationTitle = "مشاركة الموقع";
+addressOtherInfo = "الشارع";
+addressInfoSceneTitle = "معلومات العنوان";
+addressInfoNavigate = "تتبع العنوان";
+addressHouseNumber = "رقم المنزل";
+addressFlatNumber = "رقم الشقة";
+addressBlock = "رقم المجمع";
+
+
+// Special Offer List User Scene Text
+specialOfferListUserSceneTitle = "عروض خاصة";
+specialOfferListUserSceneBookNow = "احجز الآن";
+specialOfferListUserSceneForAll = "للجميع";
+specialOfferListUserSceneNoOfferAvailableLabel = "لايوجد عروض";
+
+
+
+// Opening Hours Scene Text
+OpeningHoursSceneTitle = "ساعات العمل";
+OpeningHoursSceneToText = "إلى";
+
+
+
+// SendFeedBackSceneText
+SendFeedBackSceneTitle = "ارسل رأيك";
+SendFeedBackSceneFeedBackTextViewPlaceholder = "أرسل ملاحظاتك ، دعنا نعرف كيف تحب ان يكون تطبيق صالونات البحرين ..";
+SendFeedBackSceneSendButtonTitle = "إرسال";
+sendfeedbackTextEmptyMsg = "الرجاء كتابة التعليقات";
+
+
+
+// OrderDetailSceneText
+OrderDetailSceneTitle = "تفاصيل الحجز";
+OrderDetailSceneTotalPriceLabel = "السعر";
+OrderDetailSceneTimeLabel = "الوقت";
+OrderDetailSceneTherapistLabel = "الخبير";
+OrderDetailScenePaymentHeaderLabel = "تفاصيل الدفع";
+OrderDetailScenePaymentTypeLabel = "نوع الدفع";
+OrderDetailScenePaymentStatusLabel = "حالة الدفع";
+OrderDetailSceneSpecialInstructionLabel = "تعليمات خاصة";
+OrderDetailSceneReportButtonTitle = "أبلغ عن";
+OrderDetailSceneBottomCancelButtonTitle = "إلغاء";
+OrderDetailSceneBottomBookingButtonTitle = "إعادة الحجز";
+OrderDetailSceneBookingCancelledButtonTitle = "ألغيت";
+OrderDetailSpecialTypeScene = "تعليمات خاصة";
+OrderDetailSpecialCancelScene = "ألغيت";
+OrderDetailBookingTableCell = "تاريخ الحجز";
+OrderDetailPaidAmountLabelText = "مبلغ مدفوع";
+OrderDetailRemainingAmountLabelText = "المبلغ المتبقي";
+OrderDetailBookingStatusTitleLabelText = "حالة الخدمة";
+OrderDetailPaymentDetailtLabelText = "تفاصيل الدفع";
+OrderDetailCloseButtonTitle = "مغلق";
+OrderDetailArrivalStatusLabelText = "تأكيد الوصول للصالون";
+OrderDetailTypeTitleLabelText = "نوع";
+OrderDetailAmountTitleLabelText = "المبلغ";
+OrderDetailTransactionTitleLabelText = "رقم العملية";
+OrderDetailTotalAmountText = "المبلغ الكلي ";
+OrderDateText = "تاريخ الطلب";
+OrderDetailPromoCodeText = "كود الخصم";
+OrderDetailDiscountAvailText = "استفاد من الخصم";
+OrderDetailViewAdressText = "خدمة منزلية";
+OrderDetailDiscountAmountText = "مبلغ الخصم";
+OrderDetailPayableAmountText = "المبلغ المستحق";
+OrderDetailTotalAmmountText = "مبلغ الخدمة";
+totalAfterDiscountTitle = "المجموع بعد الخصم";
+maxDiscountLimitExceedTitle = "تم تجاوز الحد الأقصى للخصم";
+maxDiscountLimitExceedValue = "نعم";
+isSpecialOfferTitle = "عرض خاص";
+isSpecialOfferValue = "نعم";
+
+
+
+
+
+// Add Scheduled Break Scene Text
+AddScheduledBreakSceneTitle = "إضافة فترة راحة";
+AddScheduledBreakSceneCustomLabelTitle = "استراحة";
+AddScheduledBreakSceneBreakTypeTitle = "اختر استراحة الموظف / اجازة الموظف";
+AddScheduledBreakSceneFullDayLabel = "اجازة";
+AddScheduledBreakSceneTitleLabel = "العنوان";
+AddScheduledBreakSceneStartDateAndTimeTextField = "حدد تاريخ البدء أو الوقت";
+AddScheduledBreakSceneEndDateAndTimeTextField = "حدد تاريخ الانتهاء أو الوقت";
+AddScheduledBreakSceneRepeatTextField = "تكرار";
+AddScheduledBreakSceneDoneButton = "انهاء";
+AddScheduledBreakSceneSelectTitleAlert = "يرجى مراجعة عنوان الاستراحة.";
+AddScheduledBreakSceneSelectStartTimeAlert = "يرجى تحديد وقت البدء";
+AddScheduledBreakSceneSelectEndTimeAlert = "يرجى تحديد وقت الانتهاء";
+AddScheduledBreakSceneEveryDayLabel = "يوميا";
+AddScheduledBreakSceneEndDateGreaterAlert = "يجب أن يكون تاريخ الانتهاء أكبر من تاريخ البدء";
+AddScheduledBreakSceneEndTimeGreaterAlert = "يجب أن يكون وقت الانتهاء أكبر";
+AddScheduledBreakSceneSelectDateAlert = "يرجى تحديد تاريخ البدء أولا";
+AddScheduledBreakSceneSelectBreakTypeAlert = "يرجى تحديد نوع الراحة";
+
+
+
+// AddSpecial Offer Scene Text
+AddSpecialOfferSceneTitle = "عروض خاصة";
+AddSpecialOfferSceneOfferNameTextField = "اسم العرض الخاص";
+AddSpecialOfferSceneContinueButton = "استمر";
+AddSpecialOfferSceneOfferNameValidationText = "الرجاء إدخال اسم العرض";
+AddSpecialOfferSceneOfferServiceValidationText = "الرجاء تحديد خدمة واحدة على الأقل";
+AddSpecialOfferSceneAddOfferTitle = "إضافة عرض خاص";
+AddSpecialOfferSceneEditOfferTitle = "تعديل العرض الخاص";
+AddOfferEmptyImage = "يرجى اختيار صورة العرض";
+
+
+
+
+// Staff Scene Text
+StaffSceneTitle = "الموظفين";
+StaffSceneNoStaffLabel = "لا يوجد موظف متاح";
+
+
+// Salon Detail Scene Text
+SalonDetailSceneRateUsButton = "التقييم";
+SalonDetailSceneEnjoyLabel = "استمتع بخدمتك! قيمنا";
+SalonDetailSceneReviewTextViewPlaceholder = "أكتب تعليق";
+SalonDetailSceneCancelButton = "إلغاء";
+SalonDetailSceneSubmitButton = "أرسل";
+SalonDetailSceneReviewStaticText = "التعليقات";
+SalonDetailSceneEmptyRatingText = "يرجى تقديم التقييم للمتابعة";
+SalonDetailSceneServiceBookedText = "تم حجز الخدمة";
+SalonDetailSceneBookOrderText = "احجز الموعد";
+
+// Static collection view cell titles
+SalonDetailSceneAbout = "معلومات";
+SalonDetailSceneFavorites = "المفضلة";
+SalonDetailSceneHours = "ساعة";
+SalonDetailSceneChat = "دردشة";
+SalonDetailSceneDirection = "الإتجاه";
+SalonDetailSceneStaff = "الخبراء";
+SalonDetailSceneAddreviewSuccessResponse = "تم تقديم تقييمك بنجاح";
+SalonDetailSceneNoServiceLabelText = "لا يوجد خدمة متوفرة";
+SalonDetailSceneWhatsApp = "ال WhatsApp";
+SalonDetailSceneShare = "شارك";
+
+
+
+
+// User List Scene Text
+UserListSceneAddButton = "إضافة";
+UserListSceneAddedButton = "مضافة";
+
+
+// List Your Service Scene Text
+ListYourServiceSceneTitle = "أدرج خدمتك";
+ListYourServiceSceneSubTitle = "اختر أي نوع من الأعمال هل تريد أن تسجل؟";
+ListYourServiceSceneSelectedServiceText = "تم تحديد الخدمات";
+ListYourServiceSceneContinueButton = "استمر";
+ListYourServiceSceneSaveChangesButton = "احفظ التغييرات";
+ListYourServiceSceneCategoriesUpdated = "تم تحديث الفئات بنجاح";
+
+
+// Business Today Scene Text
+BusinessTodayTherapistText = "الخبراء";
+BusinessTodayClientNameText = "اسم الزبون";
+BusinessTodayTimeText = "الوقت";
+BusinessTodayCancelText = "ألغيت";
+upcoming = "المواعيد القادمة";
+pastAppointments = "المواعيد الفائتة";
+
+// Map Scene Text
+MapSceneTitle = "الخريطة";
+
+// Business Page ViewController Scene Text
+businessPageViewControllerStepText = "خطوة";
+
+
+// Business Pin Location Scene Text
+businessPinLocationSceneTitle = "حدد موقع الصالون";
+
+
+
+// Booking Scene Text
+BookingSceneTitle = "الحجوزات";
+BookingSceneServiceDetailLabelText = "تفاصيل الخدمة";
+BookingSceneInstructionTextViewText = "هل لديك أي تعليمات خاصة؟";
+BookingSceneProceedButtonTitle = "متابعة";
+BookingSceneMinLabelText = "دقيقة / دقائق";
+BookingSceneTimeSelectionAlert = "عذرًا ، لا يمكن حجز موعد للوقت الماضي";
+BookingSceneAllServiceSelectionAlert = "بإمكانك اختيار اكثر من خبير لجميع الخدمات";
+BookingSceneServiceText = "اختر وقت مناسب لك";
+BookingSceneNoSlotAvailableAlert = "لا يوجد لديك أي خبير يرجى إزالة هذه الخدمة";
+BookingSceneNoSlot = "لا توجد فترات زمنية متاحة ، يرجى تحديد تاريخ آخر";
+
+
+
+// Business Booking Scene Text
+BusinessBookingSceneTitle = "الحجوزات";
+BusinessBookingSceneSelectServiceLocationLabel = "حدد موقع الخدمة";
+BusinessBookingSceneSelectServiceLabel = "حدد الخدمة";
+BusinessBookingSceneServiceDetailLabel = "تفاصيل الخدمة";
+BusinessBookingSceneClientLabel = "الزبون";
+BusinessBookingSceneBookServiceButton = "احجز الخدمة";
+BusinessBookingScenePickYourServiceLabel = "اختر خدمتك";
+BusinessBookingSceneAtSalonButton = "في الصالون";
+BusinessBookingSceneAtHomeButton = "في المنزل";
+BusinessBookingScenePickDoneButton = "تم";
+BusinessBookingScenePickCancelButton = "إلغاء";
+BusinessBookingSceneHomeSelectedText = "تم اخيار  المنزل";
+BusinessBookingSceneSalonSelectedText = "تم اختيار الصالون";
+BusinessBookingSceneServiceSelectedText = "تم تحديد الخدمات";
+BusinessBookingSceneServiceTypeLabelText = "نوع الخدمة";
+BusinessBookingSceneSelectServiceErrorAlert = "الرجاء تحديد خدمة واحدة على الأقل";
+BusinessBookingSceneTimingSlotErrorAlert = "الرجاء تحديد خانة التوقيت للخدمة";
+BusinessBookingSceneSelectServiceFirstAlert = "الرجاء اختيار الخدمة أولاً";
+BusinessBookingSceneSelectClientErrorAlert = "الرجاء تحديد الزبون";
+BusinessBookingSceneBookingConfirmedMessage = "تاكيد الحجز";
+BusinessBookingConfirmAlertMessage = "هل أنت متأكد من أنك تريد حجز خدمتك على";
+
+
+
+// Business Calender Scene Text
+BusinessCalenderSceneTitle = "التقويم";
+BusinessCalenderSceneServiceNameLabel = "اسم الخدمة";
+BusinessCalenderSceneServiceDurationLabel = "مدة الخدمة";
+BusinessCalenderSceneTotalPriceLabel = "الدفع";
+BusinessCalenderSceneServiceDurationMinuteText = "دقيقة";
+BusinessCalenderSceneTimeLabel = "الزمن";
+BusinessCalenderSceneHairCutLabel = "تصفيف شعر";
+BusinessCalenderDeleteAlert = "هل أنت متأكد من أنك تريد حذف هذا الموعد";
+BusinessCalenderConfirmPopupTitle = "تأكيد";
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// Business Chat Scene Text
+BusinessChatSceneTypingTextLabel = "...يكتب";
+BusinessChatSceneOnlineTextLabel = "متصل";
+BusinessChatSceneOfflineTextLabel = "غير متصل";
+BusinessChatSceneTextViewText = "... أكتب الرسالة";
+
+
+// Business Chat Message Scene Text
+BusinessChatMessageSceneTitle = "الرسائل";
+
+
+
+//Chat Scene Text
+ChatSceneTypingTextLabel = "... يكتب";
+ChatSceneOnlineTextLabel = "متصل";
+ChatSceneOfflineTextLabel = "غير متصل";
+ChatSceneTextViewText = "... اكتب رسالة";
+
+//Chat Message Scene Text
+ChatMessageSceneTitle = "الرسائل";
+
+
+// rate Review Scene Text
+RateReviewSceneTitle = "التقييم والملاحظات";
+AvgRatingLabel = "متوسط تقييم";
+Quality = "الجودة";
+Money = "قيمة المال";
+Services = "خدمة العملاء";
+Timing = "دقة التوقيت";
+ReviewBtn = "كتابة ملاحظة";
+therapistRating = "قييم الخبير";
+
+
+// Rate Services Scene Text
+RateServicesSceneTitle = "تقييم الخدمات";
+ReviewTextView = "اكتب ملاحظاتك";
+SubmitBtn = "ارسال";
+
+// Notify Scene Text
+NotifySceneTitle = "الاشعارات";
+NotifySceneClearButtonText = "امسح الكل";
+NotifySceneNoDataLabel = "لايوجد اشعارات";
+NotifySceneClearAllAlert = "هل أنت متأكد من أنك تريد مسح جميع الإشعارات";
+NotifySceneClearAllSuccessMessage = "تم مسح الإشعار بنجاح";
+
+// Payment Method Scene Text
+PaymentMethodSceneTitle = "الدفع";
+PaymentMethodTypeLabelTitle = "اختر طريقة الدفع";
+PaymentPartialPayLabelTitle = "دفع مبلغ جزئي";
+PaymentFullPayLabelTitle = "دفع المبلغ الكلي";
+PaymentWalletBtnTitle = "مبلغ المحفظة ";
+PaymentMethodTotalAmtLabelTitle = "المبلغ الكلي";
+PaymentMethodAdvanceAmtTitle = "دفعة مقدمة";
+PaymentMethodSalonAmtTitle = "الدفع في الصالون";
+PaymentMethodBenefitTitle = "دفع الفوائد";
+PaymentMethodCreditTitle = "بطاقة الخصم أو الائتمان";
+PaymentMethodLabelTitle = "اختر طريقة الدفع";
+PaymentMethodBenefitBtnTitle = "بطاقات الصراف الآلي";
+PaymentMethodMpgsBtnTitle = "بطاقة الائتمان";
+PaymentMethodContinueBtnTitle = "استمر";
+PaymentMethodContinueBtnPayTitle = "دفع";
+PaymentMethodSelectPaymenttypeErrorMsg = "من فضلك اختر نوع الدفع للاستمرار ";
+PaymentMethodSelectPaymentMethodErrorMsg = "من فضلك اختر طريقة الدفع للاستمرار";
+PaymentMethodWalletAmtLblTitle = "رصيد المحفظة";
+PaymentMethodDeductedLblTitle = "الرصيد المخصوم";
+PaymentMethodRemainingBalanceLblTitle = "الرصيد المتبقي في المحفظة";
+PaymentMethodRemainPayableTitleLbl = "مبلغ مستحق الدفع";
+
+
+// Card Detail Scene Text
+CardDetailSceneTitle = "الدفع";
+CardDetailMethodNameLbl = "طريقة الدفع";
+CardDetailEnterDetailLbl = "ادخل بيانات البطاقة";
+CardDetailExpiryLbl = "تاريخ انتهاء الصلاحية";
+CardDetailCardNumberTxtFldPlaceholder = "رقم البطاقة";
+CardDetailMonthTxtFldPlaceholder = "MM";
+CardDetailYearTxtFldPlaceholder = "YYYY";
+CardDetailCvvTxtFldPlaceholder = "CVV";
+CardDetailPaymentBtnTitle = "دفع";
+CardDetailInfoLbl = "سيتم حفظ هذه البطاقة لتجربة دفع اسرع لكن لن يتم حفظ رقم cvv.";
+CardDetailMoreInfoText = "معلومات اكثر";
+CardDetailLessInfoText = "معلومات اقل ";
+CardDetailNumberValidationText = "الرجاء ادخال رقم البطاقة";
+CardDetailMonthValidationText = "من فضلك ادخل شهر انتهاء الصلاحية";
+CardDetailYearValidationText = "من فضلك ادخل سنة انتهاء الصلاحية";
+CardDetailCvvValidationText = "الرجاء ادخال الرقم السري للبطاقة";
+
+
+
+
+
+// BusinessAppointmentDetail Scene Text
+BusinessAppointmentDetailSceneTitle = "تفاصيل الحجز";
+BusinessAppointmentDetailSceneReportButtonTitle = "ابلاغ";
+BusinessAppointmentDetailSceneReportAlertText = "هل أنت متأكد من أنك تريد الإبلاغ عن هذا العميل كرسالة غير مرغوب فيها؟";
+BusinessAppointmentDetailSceneReportApiSuccessText = "تم الإبلاغ عن الزبون كرسالة غير مرغوب فيها.";
+BusinessAppointmentPriceLabelText = "السعر";
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// List Scheduled Break Scene Text
+ListScheduledBreakSceneTitle = "قائمة الاستراحة";
+ListScheduledBreakSceneDoneButton = "تم";
+ListScheduledBreakSceneDeleteButton = "التاريخ";
+ListScheduledBreakSceneAddScheduledLabel = "أضف جدول";
+ListScheduledBreakSceneAddScheduledBreakLabel = "إضافة جدول الإستراحة";
+ListScheduledBreakSceneFullDay = "يوم كامل";
+
+
+// Cancel Appointment Scene Text
+CancelAppointmentSceneTitle = "سبب الغاء الحجز";
+CancelAppointmentSceneTextFieldPlaceholder = "ادخل السبب لالغاء الحجز";
+CancelAppointmentSceneSubmitBtnTitle = "تسليم";
+CancelAppointmentSceneSelectReasonAlert = "الرجاء اختيار سبب الغاء الحجز";
+CancelAppointmentScenePopupAlertTitle = "الغاء حجز الموعد";
+CancelAppointmentScenePopupCancelBtnTitle = "الغاء";
+CancelAppointmentScenePopupConfirmBtnTitle = "تأكيد";
+
+
+
+//Wallet Scene Text
+WalletSceneTitle = "المحفظة";
+WalletSceneCurrentBalanceLblTitle = "الرصيد الحالي";
+WalletSceneBottomInfoLabelTitle = "ملاحظة-استحدام المحفظة فقط للمبالغ المسترجعة";
+WalletSceneNoDataLblTitle = "لاتوجد استخدامات للمحفظة";
+
+
+
+
+
+
+//////////////----   LABELS_END   -----///////////////
+
+
+////////////----   MESSAGES_START   -----/////////////
+
+
+// Salon Detail Scene Text
+SalonDetailSceneEmptyRatingText = "يرجى تقديم التقييم للمتابعة";
+
+// Working hour scene text
+updateSuccessMessage = "تم تحديث ساعات العمل";
+workingHoursError = "يرجى تعيين ساعات عمل الصالون";
+
+
+// Basic Information
+basicInformationSceneEmptySaloonName = "يرجى إدخال اسم صالونك";
+basicInformationSceneEmptySaloonImage = "الرجاء إضافة صورة ملف تعريف الصالون";
+basicInformationSceneEmptyCoverSaloonImage = "الرجاء إضافة صورة غلاف الصالون";
+
+
+// Photos Scene Text
+emptyImagesArray = "يرجى اختيار صور معرض الصالون";
+
+
+// Send FeedBack Scene Text
+SendFeedBackSceneEmptyTextMsg = "يرجى تقديم ملاحظاتك";
+
+// OTP Verify Scene Text
+emptyOTP = "يرجى إدخال OTP";
+validOTP = "يرجى إدخال OTP صحيح";
+OTPNotSent = "OTP لم يتم ارسال";
+
+
+// Add client
+addClientSceneEmptyNameValidation = "يرجى إدخال اسم الزبون";
+addClientSceneEmptyCountryCodeValidation = "يرجى إدخال رمز البلد";
+addClientSceneEmptyPhoneNumberValidation = "يرجى إدخال رقم هاتف الزبون";
+
+
+
+// Validations Text
+emptyName = "من فضلك أدخل إسمك";
+emptyPhoneNumber = "الرجاء إدخال رقم هاتفك المحمول";
+phoneNumberMinLength = "يجب أن يكون رقم الموبايل أكبر من 7";
+invalidPhoneNumber = "رقم الموبايل غير صالح";
+emptyPassword = "يرجى إدخال كلمة المرور الحالية";
+emptyNewPassword = "يرجى إدخال كلمة المرور الجديدة";
+emptyConfirmPassword = "يرجى تأكيد كلمة المرور الجديدة";
+confirmPasswordMatch = "كلمة المرور الجديدة والتأكيد غير متطابقين";
+passwordLength = "يجب أن تتكون كلمة المرور من 8 أحرف على الأقل";
+emptyCountryCode = "يرجى تحديد رمز البلد";
+emptyEmail = "الرجاء إدخال بريدك الإلكتروني";
+invalidEmail = "يرجى إدخال البريد الإلكتروني صحيح";
+emptyArea = "يرجى تحديد منطقتك";
+emptyBirthdate = "يرجى تحديد تاريخ ميلادك";
+emptyImage = "يرجى اختيار صورة الملف الشخصي";
+enterArea = "يرجى اختيار المنطقة";
+enterBlock = "ادخل المجمع";
+
+// Twilio Wrapper Text
+userMessage = "كود التفعيل الخاص بك لتطبيق صالونات البحرين هو ";
+
+
+// User Side Menu Text
+
+logoutAlert = "هل أنت متأكد أنك تريد تسجيل الخروج؟";
+
+
+
+// General Text
+bookingConfirmedSuccessfully = "تم تأكيد الحجز بنجاح";
+keyboardDoneButton = "تم";
+bhd = "د.ب";
+ok = "موافق";
+nextButton = "متابعة";
+doneButton = "تم";
+cancelButton = "إلغاء";
+appName = "صالونات البحرين";
+no = "لا";
+yes = "نعم";
+cancel = "إلغاء";
+editRow = "تعديل";
+deleteRow = "التاريخ";
+imageUploadedSuccess = "تم تحميل الصورة بنجاح";
+pleaseLogin = "الرجاء تسجيل الدخول للمتابعة";
+gpsPermission = "عذرًا ، قد لا يعمل هذا التطبيق بشكل صحيح بدون صلاحيات. لذا يرجى الانتقال إلى الإعدادات >> الموقع >> حدد الخيار أثناء استخدام التطبيق أو دائمًا";
+cameraPermission = "يرجى تمكين إذن الكاميرا لهذا التطبيق في إعدادات جهازك";
+noSalonAvailableMessage = "لا يوجد صالونات متاحه";
+noAppointmentsAvailableMessage = "لايوجد مواعيد";
+permissionHeading = "عذرا، لاتوجد صلاحيات";
+comingSoon = "قريبا..";
+Continue = "استمر";
+ConfirmBooking = "تأكيد الحجز";
+sessionexpired = "انتهى الوقت";
+paymentSsnTimedOut = "انتهت مهلة فترة الدفع";
+from = "من";
+to = "الى";
+image = "صورة";
+document = "وثيقة";
+accept = "قبول";
+reject = "رفض";
+bookingId = "رقم الحجز";
+validTill = "صالح لغاية";
+amount = "المبلغ";
+expiaryMonth = "Expiry MM";
+expiaryYear = "Expiry YYYY";
+cashOutWarning = "هل أنت متأكد من أنك تريد سحب المبلغ من المحفظة؟";
+salonAvailService = "هل ستصل إلى الصالون في الوقت المحدد؟";
+availService = "هل أنت مستعد للاستفادة من الخدمة";
+cancelled = "ملغي";
+confirm = "تأكيد";
+confirmed = "موكد";
+selectAnotherSlot = "يرجى اختيار وقت آخر";
+useMyCurrentLocation = "استخدام موقعي الحالي";
+by = "بواسطة";
+serviceCompleted = "اكتملت الخدمة";
+
+basicInfoAdded = "تمت إضافة المعلومات بنجاح";
+locationFetched = "تم تحديد الموقع بنجاح";
+businessPinned = "تم تثبيت الموقع بنجاح";
+servicesAdded = "تمت إضافة الخدمات بنجاح";
+
+
+reminderHeader = "إقرار كوفيد-19";
+reminderNotification0 = "خلال ١٤ يومًا السابقة:";
+reminderNotification1 = "1. هل تعاني أو عانيت من أي من هذه الأعراض ؟";
+reminderNotification2 = "السعال، اجهاد وتعب، ضيق التنفس، فقدان حاسة الشم، فقدان التذوق، احتقان في الحلق";
+reminderNotification3 = "2. هل خالطت أحدا يعاني من هذه الاعراض أو تم تشخصيه مصاب بالكوفيد 19 ؟";
+reminderNotification4 = "3. هل تسكن مع أي شخص تحت الحجر المنزلي ؟";
+
+serviceUpdated = "تم تحديث الخدمة بنجاح";
+serviceAdded = "تمت إضافة الخدمة بنجاح";
+englishDigitsError = "الرجاء اضافة ارقام انجليزية فقط";
+businessAlreadyApproved = "صالونك مسجل مسبقا.هل تريد الاستمرار؟";
+
+mon = "الاثنين";
+tue = "الثلثاء";
+wed = "الاربعاء";
+thu = "الخميس";
+fri = "الجمعة";
+sat = "السبت";
+sun = "الاحد";
+
+armon = "الإثنين";
+artue = "الثلاثاء";
+arwed = "الأربعاء";
+arthu = "الخميس";
+arfri = "يوم الجمعة";
+arsat = "يوم السبت";
+arsun = "الأحد";
+
+monthView = "عرض الشهر";
+weekView = "عرض الأسبوع";
+
+specialOffers = "عروض خاصة";
+homeServices = "خدمات منزلية";
+homePackages = "باقات منزلية";
+salonServices = "خدمات الصالون";
+salonPackages = "باقات الصالون";
+off = "خصم";
+
+
+registeredOn = "تاريخ التسجيل";
+
+paymentMsg = "هل أنت متأكد أنك تريد حجز الخدمة على";
+generalTextNoInternetError = "لاتوجد شبكة";
+businessAlreadyExist = "صالونك مسجل مسبقا.هل تريد الاستمرار؟";
+tooManyGooglePlacesRequests = "طلبات كثيرة جدا";
+googleServerError = "Google server error";
+searchPlace = "البحث عن موقع او عنوان";
+addItem = "اضافة";
+outOf = "من";
+checkout = "متابعة الحجز";
+maxSelection = "تجاوزت الحد الأقصى للاختيار";
+specialInstructions = "تعليمات خاصة";
+
+//////////////----   MESSAGES_END   -----///////////////
+

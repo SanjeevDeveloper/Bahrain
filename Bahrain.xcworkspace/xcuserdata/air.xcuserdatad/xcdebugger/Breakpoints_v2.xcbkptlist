@@ -1,0 +1,440 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "95046A63-8D5D-4E7C-BDDA-B178D8306195"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "45F204AA-F3AB-4FEC-BFBA-44AA845EE505"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Bahrain/Scenes/User Module/SaloonMapVC/SaloonMapListVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D09C2986-920C-4BFA-904D-72D869F7E0B4"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Bahrain/Scenes/User Module/FavoriteListVC/FavoriteListRouter.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "34"
+            endingLineNumber = "34"
+            landmarkName = "routeToMap(segue:saloonArray:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "D09C2986-920C-4BFA-904D-72D869F7E0B4 - bd4d5a6c0f1a4310"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Bahrain.FavoriteListRouter.routeToMap(segue: Swift.Optional&lt;__C.UIStoryboardSegue&gt;, saloonArray: Swift.Array&lt;Bahrain.FavoriteList.ApiViewModel.tableCellData&gt;) -&gt; ()"
+                  moduleName = "Bahrain"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/air/Documents/code_yogendra/Bahrain/Scenes/User%20Module/FavoriteListVC/FavoriteListRouter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "137">
+               </Location>
+               <Location
+                  uuid = "D09C2986-920C-4BFA-904D-72D869F7E0B4 - bd4d5a6c0f1a4310"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Bahrain.FavoriteListRouter.routeToMap(segue: Swift.Optional&lt;__C.UIStoryboardSegue&gt;, saloonArray: Swift.Array&lt;Bahrain.FavoriteList.ApiViewModel.tableCellData&gt;) -&gt; ()"
+                  moduleName = "Bahrain"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/air/Documents/code_yogendra/Bahrain/Scenes/User%20Module/FavoriteListVC/FavoriteListRouter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "364">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "689FB5B4-8C18-4026-9403-D8581B7FAC36"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Bahrain/Scenes/User Module/SearchVC/SearchRouter.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "56"
+            endingLineNumber = "56"
+            landmarkName = "routeToSelectArea(segue:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1488E462-4AA6-4E18-8BEF-E865FF0CDC05"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Bahrain/Scenes/User Module/SearchVC/SearchRouter.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "50"
+            endingLineNumber = "50"
+            landmarkName = "routeToSelectArea(segue:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "1488E462-4AA6-4E18-8BEF-E865FF0CDC05 - 4b9df32e0eeaa054"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Bahrain.SearchRouter.routeToSelectArea(segue: Swift.Optional&lt;__C.UIStoryboardSegue&gt;) -&gt; ()"
+                  moduleName = "Bahrain"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/air/Documents/code_yogendra/Bahrain/Scenes/User%20Module/SearchVC/SearchRouter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "50"
+                  endingLineNumber = "50"
+                  offsetFromSymbolStart = "114">
+               </Location>
+               <Location
+                  uuid = "1488E462-4AA6-4E18-8BEF-E865FF0CDC05 - 4b9df32e0eeaa054"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Bahrain.SearchRouter.routeToSelectArea(segue: Swift.Optional&lt;__C.UIStoryboardSegue&gt;) -&gt; ()"
+                  moduleName = "Bahrain"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/air/Documents/code_yogendra/Bahrain/Scenes/User%20Module/SearchVC/SearchRouter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "50"
+                  endingLineNumber = "50"
+                  offsetFromSymbolStart = "916">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "48F7B430-69C5-4587-819F-A76B87F412ED"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Bahrain/Scenes/User Module/SearchVC/SearchRouter.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "81"
+            endingLineNumber = "81"
+            landmarkName = "passDataToSelectArea(source:destination:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "39448531-2C68-4382-9320-309CD331014E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Bahrain/Scenes/User Module/SearchVC/SearchViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "112"
+            endingLineNumber = "112"
+            landmarkName = "presentSelectedArea(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D04E1DC5-CF1E-4FE0-938A-0FB3A6998872"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Bahrain/Scenes/User Module/SearchVC/SearchViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "60"
+            endingLineNumber = "60"
+            landmarkName = "prepare(for:sender:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1090806D-42D5-44C5-8CED-7594A4BC5E23"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Bahrain/Scenes/User Module/SearchVC/SearchViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "68"
+            endingLineNumber = "68"
+            landmarkName = "prepare(for:sender:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C975BF1E-F1FA-4BA7-86A5-8F928AC7C0B6"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Bahrain/Scenes/Business Module/LocationVC/LocationRouter.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "routeToSelectArea(segue:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D94BAB1F-372B-42CE-8E60-09B5C2BE19FC"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Bahrain/Scenes/User Module/ProfileSettingVC/ProfileSettingRouter.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "routeToSelectArea(segue:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5E2CFA65-D7E7-49ED-AA79-122101463724"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Bahrain/Scenes/User Module/FilterVC/FilterRouter.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "routeToSelectArea(segue:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "5E2CFA65-D7E7-49ED-AA79-122101463724 - f9098f8de64cffbd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Bahrain.FilterRouter.routeToSelectArea(segue: Swift.Optional&lt;__C.UIStoryboardSegue&gt;) -&gt; ()"
+                  moduleName = "Bahrain"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/air/Documents/code_yogendra/Bahrain/Scenes/User%20Module/FilterVC/FilterRouter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "136">
+               </Location>
+               <Location
+                  uuid = "5E2CFA65-D7E7-49ED-AA79-122101463724 - f9098f8de64cffbd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Bahrain.FilterRouter.routeToSelectArea(segue: Swift.Optional&lt;__C.UIStoryboardSegue&gt;) -&gt; ()"
+                  moduleName = "Bahrain"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/air/Documents/code_yogendra/Bahrain/Scenes/User%20Module/FilterVC/FilterRouter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "1006">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AC959372-03DB-4629-876B-E1DC96E658CF"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Bahrain/Scenes/User Module/FavoriteListVC/FavoriteListRouter.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "47"
+            endingLineNumber = "47"
+            landmarkName = "routeToSelectArea(segue:isFavorite:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "AC959372-03DB-4629-876B-E1DC96E658CF - cc03f957f4501eeb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Bahrain.FavoriteListRouter.routeToSelectArea(segue: Swift.Optional&lt;__C.UIStoryboardSegue&gt;, isFavorite: Swift.String) -&gt; ()"
+                  moduleName = "Bahrain"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/air/Documents/code_yogendra/Bahrain/Scenes/User%20Module/FavoriteListVC/FavoriteListRouter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47"
+                  offsetFromSymbolStart = "195">
+               </Location>
+               <Location
+                  uuid = "AC959372-03DB-4629-876B-E1DC96E658CF - cc03f957f4501eeb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Bahrain.FavoriteListRouter.routeToSelectArea(segue: Swift.Optional&lt;__C.UIStoryboardSegue&gt;, isFavorite: Swift.String) -&gt; ()"
+                  moduleName = "Bahrain"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/air/Documents/code_yogendra/Bahrain/Scenes/User%20Module/FavoriteListVC/FavoriteListRouter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47"
+                  offsetFromSymbolStart = "1112">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AEA47264-CB05-4A03-A74F-5119A06354FD"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Bahrain/MssGems/NetworkingWrapper.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "170"
+            endingLineNumber = "170"
+            landmarkName = "connect(urlEndPoint:httpMethod:headers:parameters:apiResponse:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B8471687-F0B4-4963-B195-1DBA7AAC49C3"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Bahrain/MssGems/NetworkingWrapper.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "174"
+            endingLineNumber = "174"
+            landmarkName = "connect(urlEndPoint:httpMethod:headers:parameters:apiResponse:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1DD50523-7218-437D-93C4-ADA615A5593F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Bahrain/MssGems/NetworkingWrapper.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "206"
+            endingLineNumber = "206"
+            landmarkName = "connectSplash(urlEndPoint:httpMethod:headers:parameters:apiResponse:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C9A78389-4549-4DEC-8662-A42D5F991B47"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Bahrain/MssGems/NetworkingWrapper.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "210"
+            endingLineNumber = "210"
+            landmarkName = "connectSplash(urlEndPoint:httpMethod:headers:parameters:apiResponse:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "83CD1FD8-1FB3-44D1-9571-855153809CF4"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Bahrain/MssGems/NetworkingWrapper.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "316"
+            endingLineNumber = "316"
+            landmarkName = "connectWithMultiPart(urlEndPoint:httpMethod:parameters:headers:images:imageName:apiResponse:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "84927311-0FE2-4DF5-8DF3-B18B25F9E526"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Bahrain/MssGems/NetworkingWrapper.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "321"
+            endingLineNumber = "321"
+            landmarkName = "connectWithMultiPart(urlEndPoint:httpMethod:parameters:headers:images:imageName:apiResponse:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "93EC8F1F-9742-4AC0-9DBE-0B66F5995FD9"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Bahrain/MssGems/NetworkingWrapper.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "457"
+            endingLineNumber = "457"
+            landmarkName = "connectWithMultiPartDocument(urlEndPoint:httpMethod:parameters:headers:pdfData:images:imageName:apiResponse:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
